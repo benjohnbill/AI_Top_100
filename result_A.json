@@ -1,0 +1,203 @@
+[
+  {
+    "task": 2,
+    "id": "animal_candidates",
+    "answer": ["6", "20", "21"],
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "1",
+    "answer": {"artist": "Vincent van Gogh"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "2",
+    "answer": {"artist": "Paul Cézanne"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "3",
+    "answer": {"artist": "Edgar Degas"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "4",
+    "answer": {"artist": "Johannes Vermeer"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "5",
+    "answer": {"artist": "Edgar Degas"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "6",
+    "answer": {"artist": "Vincent van Gogh"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "7",
+    "answer": {"artist": "Edgar Degas"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "8",
+    "answer": {"artist": "Johannes Vermeer"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "9",
+    "answer": {"artist": "Peter Paul Rubens"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "10",
+    "answer": {"artist": "Rembrandt van Rijn"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "11",
+    "answer": {"artist": "Johannes Vermeer"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "12",
+    "answer": {"artist": "김홍도"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "13",
+    "answer": {"artist": "김홍도"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "14",
+    "answer": {"artist": "Johannes Vermeer"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "15",
+    "answer": {"artist": "Rembrandt van Rijn"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "16",
+    "answer": {"artist": "Claude Monet"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "17",
+    "answer": {"artist": "Claude Monet"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "18",
+    "answer": {"artist": "신윤복"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "19",
+    "answer": {"artist": "Paul Cézanne"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "20",
+    "answer": {"artist": "Peter Paul Rubens"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "21",
+    "answer": {"artist": "신윤복"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "22",
+    "answer": {"artist": "Vincent van Gogh"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "23",
+    "answer": {"artist": "Johannes Vermeer"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "24",
+    "answer": {"artist": "Vincent van Gogh"},
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "25",
+    "answer": {"artist": "Claude Monet"},
+    "flag": "late_water_lilies_low_confidence"
+  },
+  {
+    "task": 4,
+    "id": "4",
+    "answer": {
+      "title": "Officer and Laughing Girl",
+      "museum": "Frick Collection, New York"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "8",
+    "answer": {
+      "title": "View of Delft",
+      "museum": "Mauritshuis, The Hague"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "11",
+    "answer": {
+      "title": "The Milkmaid",
+      "museum": "Rijksmuseum, Amsterdam"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "14",
+    "answer": {
+      "title": "The Art of Painting",
+      "museum": "Kunsthistorisches Museum, Vienna"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "23",
+    "answer": {
+      "title": "Girl Reading a Letter at an Open Window",
+      "museum": "Gemäldegalerie Alte Meister, Dresden"
+    },
+    "flag": null
+  }
+]

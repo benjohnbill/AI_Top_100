@@ -1,0 +1,102 @@
+[
+  {
+    "task": 5,
+    "id": "team_d_member_scores",
+    "answer": {
+      "members": {
+        "성민": {
+          "resource_count": 7,
+          "resource_norm": 1.0,
+          "promise_rate": 1.0,
+          "ppt_score": 0.5,
+          "final_contribution_score": 0.8,
+          "freerider": false
+        },
+        "재현": {
+          "resource_count": 1,
+          "resource_norm": 0.1429,
+          "promise_rate": 0.5,
+          "ppt_score": 0.5,
+          "final_contribution_score": 0.3571,
+          "freerider": false
+        },
+        "유나": {
+          "resource_count": 0,
+          "resource_norm": 0.0,
+          "promise_rate": 1.0,
+          "ppt_score": 1.0,
+          "final_contribution_score": 0.6,
+          "freerider": false
+        }
+      }
+    },
+    "flag": null
+  },
+  {
+    "task": 5,
+    "id": "team_d_freerider",
+    "answer": {
+      "result": null
+    },
+    "flag": null
+  },
+  {
+    "task": 6,
+    "id": "team_d_schedule_matrix",
+    "answer": {
+      "hour_slots": [
+        "09:00-10:00",
+        "10:00-11:00",
+        "11:00-12:00",
+        "12:00-13:00",
+        "13:00-14:00",
+        "14:00-15:00",
+        "15:00-16:00",
+        "16:00-17:00",
+        "17:00-18:00"
+      ],
+      "members": {
+        "성민": {
+          "Mon": ["busy", "busy", "free", "free", "free", "free", "free", "free", "free"],
+          "Tue": ["free", "free", "busy", "free", "free", "free", "free", "free", "free"],
+          "Wed": ["busy", "busy", "free", "free", "busy", "busy", "busy", "free", "free"],
+          "Thu": ["free", "free", "busy", "free", "free", "free", "free", "free", "free"],
+          "Fri": ["busy", "busy", "free", "free", "free", "free", "free", "busy", "unknown"]
+        },
+        "재현": {
+          "Mon": ["busy", "busy", "free", "free", "busy", "busy", "busy", "busy", "free"],
+          "Tue": ["free", "free", "free", "free", "busy", "busy", "busy", "busy", "free"],
+          "Wed": ["busy", "busy", "free", "free", "busy", "busy", "busy", "busy", "free"],
+          "Thu": ["free", "free", "busy", "free", "busy", "busy", "busy", "busy", "unknown"],
+          "Fri": ["busy", "busy", "free", "free", "free", "free", "free", "busy", "unknown"]
+        },
+        "유나": {
+          "Mon": ["free", "free", "busy", "free", "busy", "busy", "free", "free", "free"],
+          "Tue": ["busy", "busy", "free", "free", "free", "free", "busy", "busy", "unknown"],
+          "Wed": ["free", "free", "busy", "free", "free", "free", "free", "busy", "unknown"],
+          "Thu": ["busy", "busy", "free", "free", "busy", "busy", "busy", "busy", "unknown"],
+          "Fri": ["busy", "busy", "busy", "free", "free", "free", "free", "busy", "unknown"]
+        }
+      }
+    },
+    "flag": "중복 스크린샷 제거 후 1시간 단위 보수 해석; 종료시각이 없는 4시 시작 수업은 16:00-17:00 busy, 17:00-18:00 unknown 처리"
+  },
+  {
+    "task": 6,
+    "id": "team_d_weekday_common_slot",
+    "answer": {
+      "exists": true,
+      "common_slots": [
+        "Mon 12:00-13:00",
+        "Mon 17:00-18:00",
+        "Tue 12:00-13:00",
+        "Wed 12:00-13:00",
+        "Fri 12:00-13:00",
+        "Fri 13:00-14:00",
+        "Fri 14:00-15:00",
+        "Fri 15:00-16:00"
+      ]
+    },
+    "flag": null
+  }
+]

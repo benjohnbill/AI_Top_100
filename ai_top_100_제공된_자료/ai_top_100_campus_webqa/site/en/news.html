@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kakao University CS News">
+    <title>News - Kakao University Dept. of Computer Science</title>
+    <link rel="icon" href="../images/icons/en_favicon.png" type="image/png">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body lang="en">
+    <a href="#main-content" class="skip-link">Skip to content</a>
+
+    <header class="header" data-qa-id="header">
+        <div class="header__inner">
+            <a href="index.html" class="header__logo" data-qa-id="logo">
+                <img src="../images/icons/en_logo.png" alt="Kakao University Logo">
+                <div class="header__logo-text">
+                    <span class="header__logo-univ">Kakao University</span>
+                    <span class="header__logo-dept">Dept. of Computer Science</span>
+                </div>
+            </a>
+
+            <nav class="nav" data-qa-id="main-nav">
+                <ul class="nav__list">
+                    <li><a href="about.html" class="nav__link">About</a></li>
+                    <li><a href="curriculum.html" class="nav__link">Curriculum</a></li>
+                    <li><a href="admission.html" class="nav__link">Admission</a></li>
+                    <li><a href="faculty/index.html" class="nav__link">Faculty</a></li>
+                    <li><a href="news.html" class="nav__link nav__link--active">News</a></li>
+                    <li><a href="contact.html" class="nav__link">Contact</a></li>
+                </ul>
+
+                <div class="lang-switch" data-qa-id="lang-switch">
+                    <a href="../ko/news.html" class="lang-switch__btn">KO</a>
+                    <button class="lang-switch__btn lang-switch__btn--active" aria-current="true">EN</button>
+                </div>
+            </nav>
+
+            <button class="menu-toggle" data-qa-id="menu-toggle" aria-label="Open menu" aria-expanded="false">
+                <span class="menu-toggle__bar"></span>
+                <span class="menu-toggle__bar"></span>
+                <span class="menu-toggle__bar"></span>
+            </button>
+        </div>
+    </header>
+
+    <main id="main-content" class="main-content">
+        <nav class="breadcrumb" aria-label="Breadcrumb" data-qa-id="breadcrumb">
+            <div class="container">
+                <ol class="breadcrumb__list">
+                    <li class="breadcrumb__item"><a href="index.html">Home</a></li>
+                    <li class="breadcrumb__separator">/</li>
+                    <li class="breadcrumb__item breadcrumb__current">News</li>
+                </ol>
+            </div>
+        </nav>
+
+        <section class="page-header" data-qa-id="page-header">
+            <div class="container">
+                <h1 class="page-header__title">News</h1>
+                <p class="page-header__desc">
+                    Check department news and important announcements.
+                </p>
+            </div>
+        </section>
+
+        <section class="section" data-qa-id="news-list-section">
+            <div class="container">
+                <div class="filter-buttons" data-qa-id="filter-buttons">
+                    <button class="filter-btn filter-btn--active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="academic">Academic</button>
+                    <button class="filter-btn" data-filter="scholarship">Scholarship</button>
+                    <button class="filter-btn" data-filter="employment">Career</button>
+                    <button class="filter-btn" data-filter="event">Event</button>
+                </div>
+
+                <div class="news-list" data-qa-id="news-list">
+                    <article class="news-item" data-category="academic" data-qa-id="news-1">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">15</span>
+                            <span class="news-item__date-month">Jan</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--academic">Academic</span>
+                            <a href="#" class="news-item__title">2026 Spring Semester Course Registration Guide</a>
+                            <p class="news-item__desc">Course registration for the 2026 Spring semester will be held from February 10 (Mon) to 14 (Fri). Major required courses can be registered from 10 AM on the first day, and major elective and general courses are available from the second day. Please check the course list on the curriculum page before registration.</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="event" data-qa-id="news-2">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">10</span>
+                            <span class="news-item__date-month">Jan</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--event">Event</span>
+                            <a href="#" class="news-item__title">16th Programming Competition</a>
+                            <img src="../images/news/en_news-2-contest.png" alt="16th Programming Competition Poster" class="news-item__image" data-qa-id="news-2-image">
+                            <p class="news-item__desc">The 16th Programming Competition will be held on March 22 (Sat) from 10 AM to 5 PM at Engineering Building B1 Lab. Current undergraduate students are eligible, and teams of 2-3 members can apply. Outstanding teams will receive prize money totaling 3 million won and the Dean's Award.</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="scholarship" data-qa-id="news-3">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">05</span>
+                            <span class="news-item__date-month">Jan</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--scholarship">Scholarship</span>
+                            <a href="#" class="news-item__title">2026 Spring Scholarship Application</a>
+                            <p class="news-item__desc">The application period for 2026 Spring university scholarships (academic excellence, study support, work-study) is February 3 (Mon) to February 14 (Fri). Students with a departmental GPA of 3.5 or above are automatically recommended for academic excellence scholarships. Applications and supporting documents can be submitted at the department office or online portal.</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="academic" data-qa-id="news-4">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">28</span>
+                            <span class="news-item__date-month">Dec</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--academic">Academic</span>
+                            <a href="#" class="news-item__title">Thesis Submission Schedule</a>
+                            <p class="news-item__desc">The deadline for final thesis submission for February 2026 graduates is January 17 (Fri). Theses must be submitted as PDF files following the department's designated format, accompanied by an approval form signed by the advisor. Submit to the department office (Engineering Building Room 401).</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="employment" data-qa-id="news-5">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">20</span>
+                            <span class="news-item__date-month">Dec</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--employment">Career</span>
+                            <a href="#" class="news-item__title">2026 Summer Internship Program</a>
+                            <img src="../images/news/en_news-5-internship.png" alt="Summer Internship Program" class="news-item__image" data-qa-id="news-5-image">
+                            <p class="news-item__desc">A consolidated recruitment for summer internship programs at major IT companies including Kakao, Naver, and Samsung SDS is underway. The application period is January 6 (Mon) to February 28 (Fri). An internship information session will be held on January 15 (Wed) at 2 PM in the Engineering Building auditorium.</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="academic" data-qa-id="news-6">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">15</span>
+                            <span class="news-item__date-month">Dec</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--academic">Academic</span>
+                            <a href="#" class="news-item__title">Lab Assignment Results</a>
+                            <p class="news-item__desc">The 2026 undergraduate research lab assignment results have been finalized. Results can be found on the department website announcements and the office bulletin board. Please visit your assigned lab by January 6 (Mon) to complete a research plan consultation with your advisor.</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="event" data-qa-id="news-7">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">10</span>
+                            <span class="news-item__date-month">Dec</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--event">Event</span>
+                            <a href="#" class="news-item__title">Capstone Design Presentation</a>
+                            <p class="news-item__desc">The 2025 Fall Capstone Design final presentation will be held on December 18 (Wed) from 10 AM at the Engineering Building auditorium. A total of 24 teams will participate, with industry judges selecting outstanding projects. The presentation is open to all students and visitors — no prior registration required.</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="employment" data-qa-id="news-8">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">05</span>
+                            <span class="news-item__date-month">Dec</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--employment">Career</span>
+                            <a href="#" class="news-item__title">Job Fair Participation Guide</a>
+                            <img src="../images/news/en_news-8-jobfair.png" alt="Job Fair" class="news-item__image" data-qa-id="news-8-image">
+                            <p class="news-item__desc">The 2025 Winter Job Fair will be held on December 12 (Thu) to 13 (Fri) at the Kakao University gymnasium. Over 50 companies from IT, finance, and manufacturing sectors will participate, with on-site interviews and portfolio review booths. Please register in advance through the career support portal and upload your resume.</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="event" data-qa-id="news-9">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">01</span>
+                            <span class="news-item__date-month">Dec</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--event">Event</span>
+                            <a href="#" class="news-item__title">Department Retreat Schedule</a>
+                            <img src="../images/news/en_news-9-mt.png" alt="Department Retreat" class="news-item__image" data-qa-id="news-9-image">
+                            <p class="news-item__desc">The 2025 Winter department retreat will be held from December 20 (Fri) to 21 (Sat) in Pyeongchang, Gangwon-do. The participation fee is 30,000 won per person, due by December 10 (Tue). A chartered bus departs from the school main gate at 8 AM — please gather 10 minutes before departure.</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-category="event" data-qa-id="news-10">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">25</span>
+                            <span class="news-item__date-month">Nov</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--event">Event</span>
+                            <a href="#" class="news-item__title">14th Programming Contest Results</a>
+                            <img src="../images/news/en_news-10-result.png" alt="Programming Contest Results" class="news-item__image" data-qa-id="news-10-image">
+                            <p class="news-item__desc">The 14th Programming Contest results have been announced. This year's grand prize was awarded to the team of Kim Ji-woo (Junior), Lee Hyung-tae (Junior), and Park Ha-neul (Sophomore). Winner Kim Ji-woo said, "I just coordinated. Planning was led by Ha-neul, and design was led by Hyung-tae. Dividing roles based on each person's strengths was the key."</p>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer" data-qa-id="footer">
+        <div class="container">
+            <div class="footer__inner">
+                <div class="footer__brand">
+                    <a href="index.html" class="footer__logo">
+                        <img src="../images/icons/en_logo.png" alt="Kakao University">
+                        <span>Dept. of Computer Science</span>
+                    </a>
+                    <p class="footer__desc">
+                        Kakao University's Department of Computer Science has been nurturing IT industry leaders since 2010.
+                    </p>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Quick Links</h4>
+                    <nav class="footer__links">
+                        <a href="about.html" class="footer__link">About</a>
+                        <a href="curriculum.html" class="footer__link">Curriculum</a>
+                        <a href="admission.html" class="footer__link">Admission</a>
+                        <a href="faculty/index.html" class="footer__link">Faculty</a>
+                    </nav>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Contact</h4>
+                    <nav class="footer__links">
+                        <span class="footer__link">031-1234-5678</span>
+                        <span class="footer__link">cs@kakao-univ.ac.kr</span>
+                        <span class="footer__link">7 Hosu-ro 96beon-gil, Suji-gu, Yongin</span>
+                    </nav>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Mobile Access</h4>
+                    <div class="footer__qr" data-qa-id="footer-qr">
+                        <img src="../images/qr/en_qr.png" alt="QR Code">
+                        <span class="footer__qr-text">Scan to access</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__bottom">
+                <p class="footer__copyright">
+                    &copy; 2025 Kakao University Dept. of Computer Science. All rights reserved.
+                </p>
+                <div class="footer__social" data-qa-id="footer-social">
+                    <a href="https://github.com" target="_blank" rel="noopener" aria-label="GitHub">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+                        </svg>
+                    </a>
+                    <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="YouTube">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                        </svg>
+                    </a>
+                    <a href="https://kko.to/T_gsD2TFJ4" target="_blank" rel="noopener" aria-label="Map">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+                            <circle cx="12" cy="10" r="3" fill="#1E293B"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+[
+  {
+    "task": 5,
+    "id": "team_b_member_scores",
+    "answer": {
+      "team_b_member_scores": {
+        "태민": {
+          "resource_count": 6,
+          "resource_norm": 1.0,
+          "promise_fulfilled": 2,
+          "promise_total": 2,
+          "promise_rate": 1.0,
+          "ppt_score": 0.5,
+          "final_contribution_score": 0.8
+        },
+        "서연": {
+          "resource_count": 2,
+          "resource_norm": 0.3333,
+          "promise_fulfilled": 3,
+          "promise_total": 3,
+          "promise_rate": 1.0,
+          "ppt_score": 1.0,
+          "final_contribution_score": 0.7333
+        },
+        "태수": {
+          "resource_count": 2,
+          "resource_norm": 0.3333,
+          "promise_fulfilled": 2,
+          "promise_total": 2,
+          "promise_rate": 1.0,
+          "ppt_score": 0.5,
+          "final_contribution_score": 0.5333
+        },
+        "준혁": {
+          "resource_count": 3,
+          "resource_norm": 0.5,
+          "promise_fulfilled": 2,
+          "promise_total": 2,
+          "promise_rate": 1.0,
+          "ppt_score": 0.5,
+          "final_contribution_score": 0.6
+        }
+      }
+    },
+    "flag": null
+  },
+  {
+    "task": 5,
+    "id": "team_b_freerider",
+    "answer": {
+      "team_b_freerider": null,
+      "threshold": 0.3,
+      "formula": "contribution_score = normalized_resource_count*0.4 + promise_rate*0.2 + ppt_score*0.4"
+    },
+    "flag": null
+  },
+  {
+    "task": 6,
+    "id": "team_b_schedule_matrix",
+    "answer": {
+      "team_b_schedule_matrix": {
+        "hour_slots": [
+          "09:00-10:00",
+          "10:00-11:00",
+          "11:00-12:00",
+          "12:00-13:00",
+          "13:00-14:00",
+          "14:00-15:00",
+          "15:00-16:00",
+          "16:00-17:00",
+          "17:00-18:00"
+        ],
+        "태민": {
+          "Mon": ["busy", "busy", "free", "free", "free", "busy", "busy", "free", "free"],
+          "Tue": ["free", "free", "free", "busy", "busy", "free", "free", "busy", "unknown"],
+          "Wed": ["busy", "busy", "free", "free", "free", "busy", "busy", "busy", "unknown"],
+          "Thu": ["free", "free", "free", "busy", "busy", "free", "free", "free", "free"],
+          "Fri": ["busy", "busy", "free", "free", "free", "free", "free", "busy", "unknown"]
+        },
+        "서연": {
+          "Mon": ["free", "free", "free", "busy", "busy", "free", "free", "free", "free"],
+          "Tue": ["busy", "busy", "free", "free", "free", "busy", "busy", "busy", "unknown"],
+          "Wed": ["free", "free", "free", "free", "free", "free", "free", "busy", "unknown"],
+          "Thu": ["busy", "busy", "free", "free", "free", "busy", "busy", "free", "free"],
+          "Fri": ["free", "free", "free", "free", "free", "busy", "busy", "busy", "unknown"]
+        },
+        "태수": {
+          "Mon": ["free", "free", "free", "busy", "busy", "free", "free", "free", "free"],
+          "Tue": ["busy", "busy", "free", "free", "free", "busy", "busy", "busy", "unknown"],
+          "Wed": ["free", "free", "free", "free", "free", "free", "free", "busy", "unknown"],
+          "Thu": ["busy", "busy", "free", "free", "free", "busy", "busy", "free", "free"],
+          "Fri": ["busy", "busy", "free", "free", "free", "free", "free", "busy", "unknown"]
+        },
+        "준혁": {
+          "Mon": ["busy", "busy", "free", "free", "free", "busy", "busy", "free", "free"],
+          "Tue": ["free", "free", "free", "busy", "busy", "free", "free", "busy", "unknown"],
+          "Wed": ["free", "free", "free", "free", "free", "free", "free", "busy", "unknown"],
+          "Thu": ["free", "free", "free", "free", "free", "free", "free", "free", "free"],
+          "Fri": ["busy", "busy", "free", "free", "free", "free", "free", "busy", "unknown"]
+        }
+      },
+      "assumption": "스크린샷에서 언급되지 않은 평일 09:00-18:00 시간은 공강으로, '4시부터 창업론'은 16:00 시작만 확정되어 17:00-18:00은 unknown 처리"
+    },
+    "flag": null
+  },
+  {
+    "task": 6,
+    "id": "team_b_weekday_common_slot",
+    "answer": {
+      "team_b_weekday_common_slot": {
+        "exists": true,
+        "agreed_slot": {
+          "day": "Fri",
+          "start": "11:00",
+          "end": "14:00"
+        },
+        "evidence": "채팅에서 금요일 11시에 도서관에서 만나기로 합의"
+      }
+    },
+    "flag": null
+  }
+]

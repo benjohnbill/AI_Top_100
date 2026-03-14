@@ -1,0 +1,105 @@
+# 작가 후보 리스트
+# 아래 이름 중에서 선택하여 제출하세요.
+# (정확한 표기 필수)
+
+신윤복
+신사임당
+Henri Matisse
+Pablo Picasso
+Georges Seurat
+장승업
+Jan Vermeer
+이중섭
+Katsushika Hokusai
+김환기
+Édouard Manet
+김홍도
+Johannes Vermeer
+Vincent van Gogh
+이경윤
+Mark Rothko
+Mary Cassatt
+Jan Steen
+Gabriel Metsu
+Andy Warhol
+김정희
+Albrecht Dürer
+Diego Velázquez
+Rembrandt van Rijn
+Aelbert Cuyp
+Gerard ter Borch
+장욱진
+Qiu Ying
+Camille Pissarro
+이인문
+Hans Holbein the Younger
+윤덕희
+Qi Baishi
+Egon Schiele
+René Magritte
+Berthe Morisot
+김득신
+Tōshūsai Sharaku
+Eugène Delacroix
+강세황
+Jean-François Millet
+Frans Hals
+Claude Monet
+Tang Yin
+조속
+Georgia O'Keeffe
+Edgar Degas
+Wassily Kandinsky
+이암
+Pieter de Hooch
+박수근
+El Greco
+Paul Cézanne
+Gustav Klimt
+Suzuki Harunobu
+Kitagawa Utamaro
+Maximilien Luce
+Jackson Pollock
+Jacob van Ruisdael
+Peter Paul Rubens
+Alfred Sisley
+조영석
+Edward Hopper
+윤두서
+이징
+Jan van Eyck
+Gustave Caillebotte
+Giotto
+Pierre-Auguste Renoir
+Xu Beihong
+심사정
+Artemisia Gentileschi
+Dong Qichang
+이정
+정선
+Zhang Daqian
+Marc Chagall
+Anthony van Dyck
+Jacques-Louis David
+Édouard Vuillard
+안견
+Jacob Jordaens
+Caravaggio
+Tintoretto
+Sandro Botticelli
+Paul Signac
+Michelangelo
+Salvador Dalí
+천경자
+Gustave Courbet
+Piet Mondrian
+Leonardo da Vinci
+최북
+Edvard Munch
+Frida Kahlo
+Pierre Bonnard
+Utagawa Hiroshige
+Titian
+Henri de Toulouse-Lautrec
+Raphael
+Paul Gauguin

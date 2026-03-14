@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kakao University Department of Computer Science - Nurturing Future Software Leaders">
+    <title>Kakao University - Department of Computer Science</title>
+    <link rel="icon" href="../images/icons/en_favicon.png" type="image/png">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body lang="en">
+    <a href="#main-content" class="skip-link">Skip to content</a>
+
+    <!-- Header -->
+    <header class="header" data-qa-id="header">
+        <div class="header__inner">
+            <a href="index.html" class="header__logo" data-qa-id="logo">
+                <img src="../images/icons/en_logo.png" alt="Kakao University Logo">
+                <div class="header__logo-text">
+                    <span class="header__logo-univ">Kakao University</span>
+                    <span class="header__logo-dept">Dept. of Computer Science</span>
+                </div>
+            </a>
+
+            <nav class="nav" data-qa-id="main-nav">
+                <ul class="nav__list">
+                    <li><a href="about.html" class="nav__link">About</a></li>
+                    <li><a href="curriculum.html" class="nav__link">Curriculum</a></li>
+                    <li><a href="admission.html" class="nav__link">Admission</a></li>
+                    <li><a href="faculty/index.html" class="nav__link">Faculty</a></li>
+                    <li><a href="news.html" class="nav__link">News</a></li>
+                    <li><a href="contact.html" class="nav__link">Contact</a></li>
+                </ul>
+
+                <div class="lang-switch" data-qa-id="lang-switch">
+                    <a href="../ko/index.html" class="lang-switch__btn">KO</a>
+                    <button class="lang-switch__btn lang-switch__btn--active" aria-current="true">EN</button>
+                </div>
+            </nav>
+
+            <button class="menu-toggle" aria-label="Open menu" aria-expanded="false" data-qa-id="menu-toggle">
+                <span class="menu-toggle__bar"></span>
+                <span class="menu-toggle__bar"></span>
+                <span class="menu-toggle__bar"></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="main-content" class="main-content">
+        <!-- Hero Section -->
+        <section class="hero" data-qa-id="hero-section">
+            <div class="container">
+                <h1 class="hero__title" data-qa-id="hero-title">Code the Future</h1>
+                <p class="hero__subtitle" data-qa-id="hero-subtitle">
+                    Grow into a world-leading software professional at Kakao University's Department of Computer Science.
+                    We nurture IT leaders with creative thinking and practical skills.
+                </p>
+                <div class="hero__actions">
+                    <a href="admission.html" class="btn btn--lg btn--outline-white" data-qa-id="hero-cta-admission">Admission</a>
+                    <a href="about.html" class="btn btn--lg btn--outline-white" data-qa-id="hero-cta-about">About Us</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quick Links Section -->
+        <section class="section" data-qa-id="quick-links-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">Quick Links</h2>
+                    <p class="section-header__subtitle">Find frequently accessed information quickly</p>
+                </div>
+
+                <div class="grid grid--4">
+                    <a href="admission.html" class="quick-card" data-qa-id="quick-card-admission">
+                        <div class="quick-card__icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M12 14l9-5-9-5-9 5 9 5z"/>
+                                <path d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z"/>
+                            </svg>
+                        </div>
+                        <div class="quick-card__content">
+                            <h3 class="quick-card__title">Admission</h3>
+                            <p class="quick-card__desc">2026 New Student Recruitment</p>
+                        </div>
+                    </a>
+
+                    <a href="news.html" class="quick-card" data-qa-id="quick-card-news">
+                        <div class="quick-card__icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2"/>
+                            </svg>
+                        </div>
+                        <div class="quick-card__content">
+                            <h3 class="quick-card__title">News</h3>
+                            <p class="quick-card__desc">Department News</p>
+                        </div>
+                    </a>
+
+                    <a href="curriculum.html" class="quick-card" data-qa-id="quick-card-curriculum">
+                        <div class="quick-card__icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+                            </svg>
+                        </div>
+                        <div class="quick-card__content">
+                            <h3 class="quick-card__title">Curriculum</h3>
+                            <p class="quick-card__desc">Courses & Requirements</p>
+                        </div>
+                    </a>
+
+                    <a href="faculty/index.html" class="quick-card" data-qa-id="quick-card-faculty">
+                        <div class="quick-card__icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/>
+                                <circle cx="9" cy="7" r="4"/>
+                                <path d="M23 21v-2a4 4 0 00-3-3.87"/>
+                                <path d="M16 3.13a4 4 0 010 7.75"/>
+                            </svg>
+                        </div>
+                        <div class="quick-card__content">
+                            <h3 class="quick-card__title">Faculty</h3>
+                            <p class="quick-card__desc">Professors & Research</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats Section -->
+        <section class="section section--alt" data-qa-id="stats-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">Department in Numbers</h2>
+                </div>
+
+                <div class="stats">
+                    <div class="stat" data-qa-id="stat-students">
+                        <div class="stat__number">300</div>
+                        <div class="stat__label">Students</div>
+                    </div>
+                    <div class="stat" data-qa-id="stat-faculty">
+                        <div class="stat__number">15</div>
+                        <div class="stat__label">Faculty Members</div>
+                    </div>
+                    <div class="stat" data-qa-id="stat-employment">
+                        <div class="stat__number">94%</div>
+                        <div class="stat__label">Employment Rate</div>
+                    </div>
+                    <div class="stat" data-qa-id="stat-labs">
+                        <div class="stat__number">12</div>
+                        <div class="stat__label">Research Labs</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- News Section -->
+        <section class="section" data-qa-id="news-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">News</h2>
+                    <p class="section-header__subtitle">Check out the latest department news</p>
+                </div>
+
+                <div class="news-list">
+                    <article class="news-item" data-qa-id="news-item-1">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">15</span>
+                            <span class="news-item__date-month">Jan</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--academic">Academic</span>
+                            <a href="news.html" class="news-item__title">2026 Spring Semester Course Registration Guide</a>
+                            <p class="news-item__desc">Course registration for the 2026 Spring semester will be held from February 10 (Mon) to 14 (Fri).</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-qa-id="news-item-2">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">28</span>
+                            <span class="news-item__date-month">Dec</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--academic">Academic</span>
+                            <a href="news.html" class="news-item__title">Thesis Submission Schedule</a>
+                            <p class="news-item__desc">The deadline for final thesis submission for February 2026 graduates is January 17 (Fri).</p>
+                        </div>
+                    </article>
+
+                    <article class="news-item" data-qa-id="news-item-3">
+                        <div class="news-item__date">
+                            <span class="news-item__date-day">05</span>
+                            <span class="news-item__date-month">Jan</span>
+                        </div>
+                        <div class="news-item__content">
+                            <span class="news-item__category news-item__category--scholarship">Scholarship</span>
+                            <a href="news.html" class="news-item__title">2026 Spring Scholarship Application</a>
+                            <p class="news-item__desc">The application period for 2026 Spring university scholarships is February 3 (Mon) to February 14 (Fri).</p>
+                        </div>
+                    </article>
+                </div>
+
+                <div class="text-center mt-xl">
+                    <a href="news.html" class="btn btn--primary" data-qa-id="news-more-btn">View More</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Campus Section -->
+        <section class="section section--alt" data-qa-id="campus-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">Campus Facilities</h2>
+                    <p class="section-header__subtitle">Experience top-quality education in state-of-the-art facilities</p>
+                </div>
+
+                <div class="grid grid--3">
+                    <div class="card" data-qa-id="campus-card-building">
+                        <div class="card__image">
+                            <img src="../images/campus/en_building.png" alt="Engineering Building">
+                        </div>
+                        <div class="card__body">
+                            <h3 class="card__title">Engineering Building</h3>
+                            <p class="card__text">Learn future technologies in our 5-story engineering building with cutting-edge facilities.</p>
+                        </div>
+                    </div>
+
+                    <div class="card" data-qa-id="campus-card-lab">
+                        <div class="card__image">
+                            <img src="../images/campus/en_computer-lab.png" alt="Computer Lab">
+                        </div>
+                        <div class="card__body">
+                            <h3 class="card__title">Computer Lab</h3>
+                            <p class="card__text">Develop practical skills in our labs equipped with high-performance workstations.</p>
+                        </div>
+                    </div>
+
+                    <div class="card" data-qa-id="campus-card-research">
+                        <div class="card__image">
+                            <img src="../images/campus/en_research-lab.jpg" alt="Research Lab">
+                        </div>
+                        <div class="card__body">
+                            <h3 class="card__title">Research Lab</h3>
+                            <p class="card__text">Conduct cutting-edge research with faculty in 12 specialized research labs.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer" data-qa-id="footer">
+        <div class="container">
+            <div class="footer__inner">
+                <div class="footer__brand">
+                    <a href="index.html" class="footer__logo">
+                        <img src="../images/icons/en_logo.png" alt="Kakao University">
+                        <span>Dept. of Computer Science</span>
+                    </a>
+                    <p class="footer__desc">
+                        Kakao University's Department of Computer Science has been nurturing IT industry leaders since its establishment in 2010.
+                    </p>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Quick Links</h4>
+                    <nav class="footer__links">
+                        <a href="about.html" class="footer__link">About</a>
+                        <a href="curriculum.html" class="footer__link">Curriculum</a>
+                        <a href="admission.html" class="footer__link">Admission</a>
+                        <a href="faculty/index.html" class="footer__link">Faculty</a>
+                    </nav>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Contact</h4>
+                    <nav class="footer__links">
+                        <span class="footer__link">031-1234-5678</span>
+                        <span class="footer__link">cs@kakao-univ.ac.kr</span>
+                        <span class="footer__link">7 Hosu-ro 96beon-gil, Suji-gu, Yongin</span>
+                    </nav>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Mobile Access</h4>
+                    <div class="footer__qr" data-qa-id="footer-qr">
+                        <img src="../images/qr/en_qr.png" alt="QR Code">
+                        <span class="footer__qr-text">Scan to access</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__bottom">
+                <p class="footer__copyright">
+                    &copy; 2025 Kakao University Dept. of Computer Science. All rights reserved.
+                </p>
+                <div class="footer__social" data-qa-id="footer-social">
+                    <a href="https://github.com" target="_blank" rel="noopener" aria-label="GitHub">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+                        </svg>
+                    </a>
+                    <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="YouTube">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                        </svg>
+                    </a>
+                    <a href="https://map.kakao.com" target="_blank" rel="noopener" aria-label="Map" data-qa-id="footer-map-link">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+                            <circle cx="12" cy="10" r="3" fill="#1E293B"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,1178 @@
+{
+  "subjects": {
+    "물리학Ⅰ": {
+      "per_choice": {
+        "1": {
+          "correct_count": 4,
+          "raw_score": 11
+        },
+        "2": {
+          "correct_count": 4,
+          "raw_score": 10
+        },
+        "3": {
+          "correct_count": 4,
+          "raw_score": 10
+        },
+        "4": {
+          "correct_count": 3,
+          "raw_score": 8
+        },
+        "5": {
+          "correct_count": 5,
+          "raw_score": 11
+        }
+      }
+    },
+    "물리학Ⅱ": {
+      "per_choice": {
+        "1": {
+          "correct_count": 4,
+          "raw_score": 8
+        },
+        "2": {
+          "correct_count": 3,
+          "raw_score": 8
+        },
+        "3": {
+          "correct_count": 5,
+          "raw_score": 12
+        },
+        "4": {
+          "correct_count": 3,
+          "raw_score": 7
+        },
+        "5": {
+          "correct_count": 5,
+          "raw_score": 15
+        }
+      }
+    },
+    "생명과학Ⅰ": {
+      "per_choice": {
+        "1": {
+          "correct_count": 5,
+          "raw_score": 13
+        },
+        "2": {
+          "correct_count": 4,
+          "raw_score": 11
+        },
+        "3": {
+          "correct_count": 3,
+          "raw_score": 7
+        },
+        "4": {
+          "correct_count": 3,
+          "raw_score": 7
+        },
+        "5": {
+          "correct_count": 5,
+          "raw_score": 12
+        }
+      }
+    },
+    "생명과학Ⅱ": {
+      "per_choice": {
+        "1": {
+          "correct_count": 5,
+          "raw_score": 12
+        },
+        "2": {
+          "correct_count": 4,
+          "raw_score": 10
+        },
+        "3": {
+          "correct_count": 3,
+          "raw_score": 6
+        },
+        "4": {
+          "correct_count": 3,
+          "raw_score": 8
+        },
+        "5": {
+          "correct_count": 5,
+          "raw_score": 14
+        }
+      }
+    },
+    "지구과학Ⅰ": {
+      "per_choice": {
+        "1": {
+          "correct_count": 5,
+          "raw_score": 14
+        },
+        "2": {
+          "correct_count": 4,
+          "raw_score": 9
+        },
+        "3": {
+          "correct_count": 3,
+          "raw_score": 8
+        },
+        "4": {
+          "correct_count": 3,
+          "raw_score": 8
+        },
+        "5": {
+          "correct_count": 5,
+          "raw_score": 11
+        }
+      }
+    },
+    "지구과학Ⅱ": {
+      "per_choice": {
+        "1": {
+          "correct_count": 4,
+          "raw_score": 11
+        },
+        "2": {
+          "correct_count": 3,
+          "raw_score": 7
+        },
+        "3": {
+          "correct_count": 4,
+          "raw_score": 11
+        },
+        "4": {
+          "correct_count": 4,
+          "raw_score": 9
+        },
+        "5": {
+          "correct_count": 5,
+          "raw_score": 12
+        }
+      }
+    },
+    "화학Ⅰ": {
+      "per_choice": {
+        "1": {
+          "correct_count": 4,
+          "raw_score": 11
+        },
+        "2": {
+          "correct_count": 4,
+          "raw_score": 10
+        },
+        "3": {
+          "correct_count": 4,
+          "raw_score": 10
+        },
+        "4": {
+          "correct_count": 3,
+          "raw_score": 7
+        },
+        "5": {
+          "correct_count": 5,
+          "raw_score": 12
+        }
+      }
+    },
+    "화학Ⅱ": {
+      "per_choice": {
+        "1": {
+          "correct_count": 4,
+          "raw_score": 8
+        },
+        "2": {
+          "correct_count": 3,
+          "raw_score": 8
+        },
+        "3": {
+          "correct_count": 4,
+          "raw_score": 11
+        },
+        "4": {
+          "correct_count": 4,
+          "raw_score": 10
+        },
+        "5": {
+          "correct_count": 5,
+          "raw_score": 13
+        }
+      }
+    }
+  },
+  "pairs": [
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "물리학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 24,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 20,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 27,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 24,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 24,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 26,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 20,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "화학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "물리학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 20,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 20,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 20,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 20,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "화학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "물리학Ⅱ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 20,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 20,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 9
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 13,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "화학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 21,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "물리학Ⅱ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 18,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "화학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "물리학Ⅱ",
+      "combined_raw_score": 26,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 22,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 24,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅰ",
+      "combined_raw_score": 27,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 29,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 26,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 27,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 27,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "물리학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 28,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "생명과학Ⅱ",
+      "combined_raw_score": 26,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 24,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 24,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅰ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 26,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 26,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생명과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 27,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "지구과학Ⅱ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 23,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "지구과학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 24,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅰ",
+      "combined_raw_score": 24,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "지구과학Ⅱ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 10
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "화학Ⅰ",
+      "inquiry_2": "화학Ⅱ",
+      "combined_raw_score": 25,
+      "combined_correct_count": 10
+    }
+  ]
+}

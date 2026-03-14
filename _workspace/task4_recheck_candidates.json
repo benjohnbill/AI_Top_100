@@ -1,0 +1,92 @@
+[
+  {
+    "test_form": "홀수형",
+    "uniform_choice": 5,
+    "korean_subject": "언어와 매체",
+    "math_subject": "미적분",
+    "english_raw_score": 23,
+    "inquiry_1": "물리학Ⅰ",
+    "inquiry_2": "생명과학Ⅰ",
+    "inquiry_domain": "science"
+  },
+  {
+    "test_form": "홀수형",
+    "uniform_choice": 5,
+    "korean_subject": "언어와 매체",
+    "math_subject": "미적분",
+    "english_raw_score": 23,
+    "inquiry_1": "물리학Ⅰ",
+    "inquiry_2": "지구과학Ⅱ",
+    "inquiry_domain": "science"
+  },
+  {
+    "test_form": "홀수형",
+    "uniform_choice": 5,
+    "korean_subject": "언어와 매체",
+    "math_subject": "미적분",
+    "english_raw_score": 23,
+    "inquiry_1": "물리학Ⅰ",
+    "inquiry_2": "화학Ⅰ",
+    "inquiry_domain": "science"
+  },
+  {
+    "test_form": "홀수형",
+    "uniform_choice": 5,
+    "korean_subject": "언어와 매체",
+    "math_subject": "미적분",
+    "english_raw_score": 23,
+    "inquiry_1": "생명과학Ⅰ",
+    "inquiry_2": "지구과학Ⅰ",
+    "inquiry_domain": "science"
+  },
+  {
+    "test_form": "홀수형",
+    "uniform_choice": 5,
+    "korean_subject": "언어와 매체",
+    "math_subject": "미적분",
+    "english_raw_score": 23,
+    "inquiry_1": "지구과학Ⅰ",
+    "inquiry_2": "지구과학Ⅱ",
+    "inquiry_domain": "science"
+  },
+  {
+    "test_form": "홀수형",
+    "uniform_choice": 5,
+    "korean_subject": "언어와 매체",
+    "math_subject": "미적분",
+    "english_raw_score": 23,
+    "inquiry_1": "지구과학Ⅰ",
+    "inquiry_2": "화학Ⅰ",
+    "inquiry_domain": "science"
+  },
+  {
+    "test_form": "짝수형",
+    "uniform_choice": 2,
+    "korean_subject": "화법과 작문",
+    "math_subject": "확률과 통계",
+    "english_raw_score": 21,
+    "inquiry_1": "물리학Ⅰ",
+    "inquiry_2": "생명과학Ⅰ",
+    "inquiry_domain": "science"
+  },
+  {
+    "test_form": "짝수형",
+    "uniform_choice": 2,
+    "korean_subject": "화법과 작문",
+    "math_subject": "확률과 통계",
+    "english_raw_score": 21,
+    "inquiry_1": "생명과학Ⅰ",
+    "inquiry_2": "생명과학Ⅱ",
+    "inquiry_domain": "science"
+  },
+  {
+    "test_form": "짝수형",
+    "uniform_choice": 2,
+    "korean_subject": "화법과 작문",
+    "math_subject": "확률과 통계",
+    "english_raw_score": 21,
+    "inquiry_1": "생명과학Ⅰ",
+    "inquiry_2": "화학Ⅰ",
+    "inquiry_domain": "science"
+  }
+]

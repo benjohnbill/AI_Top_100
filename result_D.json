@@ -1,0 +1,232 @@
+[
+  {
+    "task": 1,
+    "id": "answer_2",
+    "answer": "98",
+    "flag": null
+  },
+  {
+    "task": 1,
+    "id": "answer_3",
+    "answer": "91",
+    "flag": null
+  },
+  {
+    "task": 2,
+    "id": "animal_candidates",
+    "answer": [
+      "83",
+      "87"
+    ],
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "76",
+    "answer": {
+      "artist": "Paul Cézanne"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "77",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "78",
+    "answer": {
+      "artist": "FAKE"
+    },
+    "flag": "Joseon-romance pastiche; likely AI"
+  },
+  {
+    "task": 3,
+    "id": "79",
+    "answer": {
+      "artist": "신윤복"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "80",
+    "answer": {
+      "artist": "Edgar Degas"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "81",
+    "answer": {
+      "artist": "Edgar Degas"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "82",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "83",
+    "answer": {
+      "artist": "Tang Yin"
+    },
+    "flag": "landscape attribution low confidence"
+  },
+  {
+    "task": 3,
+    "id": "84",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "85",
+    "answer": {
+      "artist": "Edgar Degas"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "86",
+    "answer": {
+      "artist": "Edgar Degas"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "87",
+    "answer": {
+      "artist": "Peter Paul Rubens"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "88",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "89",
+    "answer": {
+      "artist": "Rembrandt van Rijn"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "90",
+    "answer": {
+      "artist": "Zhang Daqian"
+    },
+    "flag": "ink landscape attribution low confidence"
+  },
+  {
+    "task": 3,
+    "id": "91",
+    "answer": {
+      "artist": "Rembrandt van Rijn"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "92",
+    "answer": {
+      "artist": "Rembrandt van Rijn"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "93",
+    "answer": {
+      "artist": "정선"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "94",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "95",
+    "answer": {
+      "artist": "Paul Cézanne"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "96",
+    "answer": {
+      "artist": "Rembrandt van Rijn"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "97",
+    "answer": {
+      "artist": "Tōshūsai Sharaku"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "98",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "99",
+    "answer": {
+      "artist": "김득신"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "100",
+    "answer": {
+      "artist": "Pablo Picasso"
+    },
+    "flag": "harlequin attribution low confidence"
+  },
+  {
+    "task": 4,
+    "id": "82",
+    "answer": {
+      "title": "Girl with a Pearl Earring",
+      "museum": "Mauritshuis, The Hague"
+    },
+    "flag": null
+  }
+]

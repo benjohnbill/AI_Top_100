@@ -1,0 +1,253 @@
+[
+  {
+    "task": 1,
+    "id": "answer_3",
+    "answer": "52",
+    "flag": null
+  },
+  {
+    "task": 2,
+    "id": "animal_candidates",
+    "answer": [
+      "55",
+      "73"
+    ],
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "51",
+    "answer": {
+      "artist": "Rembrandt van Rijn"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "52",
+    "answer": {
+      "artist": "Rembrandt van Rijn"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "53",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "54",
+    "answer": {
+      "artist": "Edgar Degas"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "55",
+    "answer": {
+      "artist": "Peter Paul Rubens"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "56",
+    "answer": {
+      "artist": "Dong Qichang"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "57",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "58",
+    "answer": {
+      "artist": "신윤복"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "59",
+    "answer": {
+      "artist": "신윤복"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "60",
+    "answer": {
+      "artist": "Zhang Daqian"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "61",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "62",
+    "answer": {
+      "artist": "FAKE"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "63",
+    "answer": {
+      "artist": "Rembrandt van Rijn"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "64",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "65",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "66",
+    "answer": {
+      "artist": "FAKE"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "67",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "68",
+    "answer": {
+      "artist": "Paul Cézanne"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "69",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "70",
+    "answer": {
+      "artist": "신윤복"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "71",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "72",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "73",
+    "answer": {
+      "artist": "Qi Baishi"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "74",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "75",
+    "answer": {
+      "artist": "Paul Cézanne"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "61",
+    "answer": {
+      "title": "Girl with a Pearl Earring",
+      "museum": "Mauritshuis, The Hague"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "62",
+    "answer": {
+      "title": "FAKE",
+      "museum": "FAKE"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "65",
+    "answer": {
+      "title": "The Little Street",
+      "museum": "Rijksmuseum, Amsterdam"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "74",
+    "answer": {
+      "title": "The Geographer",
+      "museum": "Städel Museum, Frankfurt"
+    },
+    "flag": null
+  }
+]

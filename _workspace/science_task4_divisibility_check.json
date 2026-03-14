@@ -1,0 +1,1655 @@
+{
+  "interpretations": {
+    "raw_score_divides_math_raw_score": {
+      "hit_count": 11,
+      "hits": [
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "생명과학Ⅱ",
+          "combined_raw_score": 16,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "생명과학Ⅰ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 19,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 19,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "생명과학Ⅱ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 16,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "지구과학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 19,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 19,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "지구과학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 19,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 19,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "생명과학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "생명과학Ⅱ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "지구과학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "화학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 17,
+              "math_correct_count": 5
+            }
+          ]
+        }
+      ]
+    },
+    "science_correct_count_divides_math_raw_score": {
+      "hit_count": 46,
+      "hits": [
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "물리학Ⅱ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 22,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 22,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 16,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "지구과학Ⅱ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 22,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "지구과학Ⅱ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 1,
+          "inquiry_1": "화학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "미적분",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 8,
+              "math_correct_count": 3
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "물리학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "생명과학Ⅰ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "생명과학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "지구과학Ⅰ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "생명과학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "생명과학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "생명과학Ⅱ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "생명과학Ⅱ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "지구과학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 16,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "지구과학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "지구과학Ⅱ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 2,
+          "inquiry_1": "화학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 14,
+              "math_correct_count": 4
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 21,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 20,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 21,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "생명과학Ⅰ",
+          "combined_raw_score": 19,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "생명과학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "지구과학Ⅰ",
+          "combined_raw_score": 20,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "지구과학Ⅱ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 21,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "지구과학Ⅱ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 22,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 3,
+          "inquiry_1": "화학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 21,
+          "combined_correct_count": 8,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "확률과 통계",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 16,
+              "math_correct_count": 5
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "물리학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 16,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "물리학Ⅱ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "생명과학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 16,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "생명과학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "생명과학Ⅱ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "생명과학Ⅱ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "지구과학Ⅰ",
+          "inquiry_2": "지구과학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "지구과학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 18,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "지구과학Ⅱ",
+          "inquiry_2": "화학Ⅰ",
+          "combined_raw_score": 16,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        },
+        {
+          "uniform_choice": 4,
+          "inquiry_1": "화학Ⅰ",
+          "inquiry_2": "화학Ⅱ",
+          "combined_raw_score": 17,
+          "combined_correct_count": 7,
+          "math_matches": [
+            {
+              "test_form": "홀수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            },
+            {
+              "test_form": "짝수형",
+              "math_subject": "기하",
+              "math_raw_score": 21,
+              "math_correct_count": 6
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

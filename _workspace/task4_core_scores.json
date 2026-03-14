@@ -1,0 +1,902 @@
+{
+  "korean": {
+    "홀수형": {
+      "화법과 작문": {
+        "1": {
+          "raw_score": 18,
+          "correct_questions": [
+            4,
+            12,
+            13,
+            15,
+            23,
+            29,
+            33,
+            38
+          ],
+          "correct_count": 8
+        },
+        "2": {
+          "raw_score": 19,
+          "correct_questions": [
+            6,
+            16,
+            18,
+            21,
+            26,
+            31,
+            35,
+            39,
+            44
+          ],
+          "correct_count": 9
+        },
+        "3": {
+          "raw_score": 22,
+          "correct_questions": [
+            1,
+            8,
+            11,
+            17,
+            20,
+            30,
+            34,
+            37,
+            43
+          ],
+          "correct_count": 9
+        },
+        "4": {
+          "raw_score": 17,
+          "correct_questions": [
+            3,
+            5,
+            19,
+            24,
+            25,
+            32,
+            41,
+            42
+          ],
+          "correct_count": 8
+        },
+        "5": {
+          "raw_score": 24,
+          "correct_questions": [
+            2,
+            7,
+            9,
+            10,
+            14,
+            22,
+            27,
+            28,
+            36,
+            40,
+            45
+          ],
+          "correct_count": 11
+        }
+      },
+      "언어와 매체": {
+        "1": {
+          "raw_score": 18,
+          "correct_questions": [
+            4,
+            12,
+            13,
+            15,
+            23,
+            29,
+            33,
+            39
+          ],
+          "correct_count": 8
+        },
+        "2": {
+          "raw_score": 20,
+          "correct_questions": [
+            6,
+            16,
+            18,
+            21,
+            26,
+            31,
+            36,
+            40,
+            43
+          ],
+          "correct_count": 9
+        },
+        "3": {
+          "raw_score": 22,
+          "correct_questions": [
+            1,
+            8,
+            11,
+            17,
+            20,
+            30,
+            34,
+            35,
+            45
+          ],
+          "correct_count": 9
+        },
+        "4": {
+          "raw_score": 21,
+          "correct_questions": [
+            3,
+            5,
+            19,
+            24,
+            25,
+            32,
+            37,
+            38,
+            41,
+            44
+          ],
+          "correct_count": 10
+        },
+        "5": {
+          "raw_score": 19,
+          "correct_questions": [
+            2,
+            7,
+            9,
+            10,
+            14,
+            22,
+            27,
+            28,
+            42
+          ],
+          "correct_count": 9
+        }
+      }
+    },
+    "짝수형": {
+      "화법과 작문": {
+        "1": {
+          "raw_score": 18,
+          "correct_questions": [
+            4,
+            12,
+            15,
+            18,
+            23,
+            29,
+            33,
+            38
+          ],
+          "correct_count": 8
+        },
+        "2": {
+          "raw_score": 19,
+          "correct_questions": [
+            6,
+            13,
+            16,
+            21,
+            26,
+            31,
+            35,
+            39,
+            44
+          ],
+          "correct_count": 9
+        },
+        "3": {
+          "raw_score": 22,
+          "correct_questions": [
+            1,
+            8,
+            11,
+            17,
+            20,
+            30,
+            34,
+            37,
+            43
+          ],
+          "correct_count": 9
+        },
+        "4": {
+          "raw_score": 15,
+          "correct_questions": [
+            3,
+            5,
+            19,
+            27,
+            32,
+            41,
+            42
+          ],
+          "correct_count": 7
+        },
+        "5": {
+          "raw_score": 26,
+          "correct_questions": [
+            2,
+            7,
+            9,
+            10,
+            14,
+            22,
+            24,
+            25,
+            28,
+            36,
+            40,
+            45
+          ],
+          "correct_count": 12
+        }
+      },
+      "언어와 매체": {
+        "1": {
+          "raw_score": 18,
+          "correct_questions": [
+            4,
+            12,
+            15,
+            18,
+            23,
+            29,
+            33,
+            39
+          ],
+          "correct_count": 8
+        },
+        "2": {
+          "raw_score": 20,
+          "correct_questions": [
+            6,
+            13,
+            16,
+            21,
+            26,
+            31,
+            36,
+            40,
+            43
+          ],
+          "correct_count": 9
+        },
+        "3": {
+          "raw_score": 22,
+          "correct_questions": [
+            1,
+            8,
+            11,
+            17,
+            20,
+            30,
+            34,
+            35,
+            45
+          ],
+          "correct_count": 9
+        },
+        "4": {
+          "raw_score": 19,
+          "correct_questions": [
+            3,
+            5,
+            19,
+            27,
+            32,
+            37,
+            38,
+            41,
+            44
+          ],
+          "correct_count": 9
+        },
+        "5": {
+          "raw_score": 21,
+          "correct_questions": [
+            2,
+            7,
+            9,
+            10,
+            14,
+            22,
+            24,
+            25,
+            28,
+            42
+          ],
+          "correct_count": 10
+        }
+      }
+    }
+  },
+  "english": {
+    "홀수형": {
+      "1": {
+        "raw_score": 16,
+        "correct_questions": [
+          3,
+          5,
+          7,
+          11,
+          16,
+          19,
+          22,
+          31
+        ],
+        "correct_count": 8
+      },
+      "2": {
+        "raw_score": 22,
+        "correct_questions": [
+          2,
+          12,
+          13,
+          18,
+          20,
+          21,
+          24,
+          29,
+          41
+        ],
+        "correct_count": 9
+      },
+      "3": {
+        "raw_score": 21,
+        "correct_questions": [
+          1,
+          14,
+          15,
+          23,
+          26,
+          34,
+          39,
+          40,
+          44
+        ],
+        "correct_count": 9
+      },
+      "4": {
+        "raw_score": 18,
+        "correct_questions": [
+          6,
+          9,
+          10,
+          25,
+          27,
+          28,
+          33,
+          35,
+          36
+        ],
+        "correct_count": 9
+      },
+      "5": {
+        "raw_score": 23,
+        "correct_questions": [
+          4,
+          8,
+          17,
+          30,
+          32,
+          37,
+          38,
+          42,
+          43,
+          45
+        ],
+        "correct_count": 10
+      }
+    },
+    "짝수형": {
+      "1": {
+        "raw_score": 17,
+        "correct_questions": [
+          1,
+          5,
+          7,
+          14,
+          15,
+          20,
+          31,
+          40
+        ],
+        "correct_count": 8
+      },
+      "2": {
+        "raw_score": 21,
+        "correct_questions": [
+          2,
+          12,
+          13,
+          18,
+          21,
+          22,
+          24,
+          29,
+          33
+        ],
+        "correct_count": 9
+      },
+      "3": {
+        "raw_score": 20,
+        "correct_questions": [
+          3,
+          11,
+          16,
+          19,
+          23,
+          26,
+          34,
+          39,
+          44
+        ],
+        "correct_count": 9
+      },
+      "4": {
+        "raw_score": 19,
+        "correct_questions": [
+          6,
+          9,
+          10,
+          25,
+          27,
+          28,
+          35,
+          36,
+          41
+        ],
+        "correct_count": 9
+      },
+      "5": {
+        "raw_score": 23,
+        "correct_questions": [
+          4,
+          8,
+          17,
+          30,
+          32,
+          37,
+          38,
+          42,
+          43,
+          45
+        ],
+        "correct_count": 10
+      }
+    }
+  },
+  "history": {
+    "홀수형": {
+      "1": {
+        "raw_score": 8,
+        "correct_questions": [
+          3,
+          10,
+          19
+        ],
+        "correct_count": 3
+      },
+      "2": {
+        "raw_score": 11,
+        "correct_questions": [
+          5,
+          12,
+          17,
+          18
+        ],
+        "correct_count": 4
+      },
+      "3": {
+        "raw_score": 13,
+        "correct_questions": [
+          1,
+          2,
+          9,
+          11,
+          15
+        ],
+        "correct_count": 5
+      },
+      "4": {
+        "raw_score": 8,
+        "correct_questions": [
+          7,
+          13,
+          20
+        ],
+        "correct_count": 3
+      },
+      "5": {
+        "raw_score": 10,
+        "correct_questions": [
+          4,
+          6,
+          8,
+          14,
+          16
+        ],
+        "correct_count": 5
+      }
+    },
+    "짝수형": {
+      "1": {
+        "raw_score": 8,
+        "correct_questions": [
+          3,
+          10,
+          19
+        ],
+        "correct_count": 3
+      },
+      "2": {
+        "raw_score": 8,
+        "correct_questions": [
+          5,
+          12,
+          17
+        ],
+        "correct_count": 3
+      },
+      "3": {
+        "raw_score": 13,
+        "correct_questions": [
+          1,
+          2,
+          9,
+          11,
+          15
+        ],
+        "correct_count": 5
+      },
+      "4": {
+        "raw_score": 11,
+        "correct_questions": [
+          7,
+          13,
+          18,
+          20
+        ],
+        "correct_count": 4
+      },
+      "5": {
+        "raw_score": 10,
+        "correct_questions": [
+          4,
+          6,
+          8,
+          14,
+          16
+        ],
+        "correct_count": 5
+      }
+    }
+  },
+  "math": {
+    "홀수형": {
+      "확률과 통계": {
+        "1": {
+          "raw_score": 8,
+          "correct_questions": [
+            1,
+            8,
+            24
+          ],
+          "correct_count": 3
+        },
+        "2": {
+          "raw_score": 14,
+          "correct_questions": [
+            6,
+            12,
+            25,
+            28
+          ],
+          "correct_count": 4
+        },
+        "3": {
+          "raw_score": 16,
+          "correct_questions": [
+            4,
+            5,
+            10,
+            11,
+            23
+          ],
+          "correct_count": 5
+        },
+        "4": {
+          "raw_score": 17,
+          "correct_questions": [
+            2,
+            9,
+            14,
+            15,
+            27
+          ],
+          "correct_count": 5
+        },
+        "5": {
+          "raw_score": 13,
+          "correct_questions": [
+            3,
+            7,
+            13,
+            26
+          ],
+          "correct_count": 4
+        }
+      },
+      "미적분": {
+        "1": {
+          "raw_score": 8,
+          "correct_questions": [
+            1,
+            8,
+            26
+          ],
+          "correct_count": 3
+        },
+        "2": {
+          "raw_score": 10,
+          "correct_questions": [
+            6,
+            12,
+            27
+          ],
+          "correct_count": 3
+        },
+        "3": {
+          "raw_score": 19,
+          "correct_questions": [
+            4,
+            5,
+            10,
+            11,
+            23,
+            25
+          ],
+          "correct_count": 6
+        },
+        "4": {
+          "raw_score": 17,
+          "correct_questions": [
+            2,
+            9,
+            14,
+            15,
+            24
+          ],
+          "correct_count": 5
+        },
+        "5": {
+          "raw_score": 14,
+          "correct_questions": [
+            3,
+            7,
+            13,
+            28
+          ],
+          "correct_count": 4
+        }
+      },
+      "기하": {
+        "1": {
+          "raw_score": 8,
+          "correct_questions": [
+            1,
+            8,
+            24
+          ],
+          "correct_count": 3
+        },
+        "2": {
+          "raw_score": 10,
+          "correct_questions": [
+            6,
+            12,
+            26
+          ],
+          "correct_count": 3
+        },
+        "3": {
+          "raw_score": 16,
+          "correct_questions": [
+            4,
+            5,
+            10,
+            11,
+            23
+          ],
+          "correct_count": 5
+        },
+        "4": {
+          "raw_score": 21,
+          "correct_questions": [
+            2,
+            9,
+            14,
+            15,
+            27,
+            28
+          ],
+          "correct_count": 6
+        },
+        "5": {
+          "raw_score": 13,
+          "correct_questions": [
+            3,
+            7,
+            13,
+            25
+          ],
+          "correct_count": 4
+        }
+      }
+    },
+    "짝수형": {
+      "확률과 통계": {
+        "1": {
+          "raw_score": 8,
+          "correct_questions": [
+            1,
+            7,
+            24
+          ],
+          "correct_count": 3
+        },
+        "2": {
+          "raw_score": 14,
+          "correct_questions": [
+            6,
+            12,
+            25,
+            28
+          ],
+          "correct_count": 4
+        },
+        "3": {
+          "raw_score": 16,
+          "correct_questions": [
+            4,
+            5,
+            10,
+            11,
+            23
+          ],
+          "correct_count": 5
+        },
+        "4": {
+          "raw_score": 17,
+          "correct_questions": [
+            2,
+            9,
+            14,
+            15,
+            27
+          ],
+          "correct_count": 5
+        },
+        "5": {
+          "raw_score": 13,
+          "correct_questions": [
+            3,
+            8,
+            13,
+            26
+          ],
+          "correct_count": 4
+        }
+      },
+      "미적분": {
+        "1": {
+          "raw_score": 8,
+          "correct_questions": [
+            1,
+            7,
+            26
+          ],
+          "correct_count": 3
+        },
+        "2": {
+          "raw_score": 10,
+          "correct_questions": [
+            6,
+            12,
+            27
+          ],
+          "correct_count": 3
+        },
+        "3": {
+          "raw_score": 19,
+          "correct_questions": [
+            4,
+            5,
+            10,
+            11,
+            23,
+            25
+          ],
+          "correct_count": 6
+        },
+        "4": {
+          "raw_score": 17,
+          "correct_questions": [
+            2,
+            9,
+            14,
+            15,
+            24
+          ],
+          "correct_count": 5
+        },
+        "5": {
+          "raw_score": 14,
+          "correct_questions": [
+            3,
+            8,
+            13,
+            28
+          ],
+          "correct_count": 4
+        }
+      },
+      "기하": {
+        "1": {
+          "raw_score": 8,
+          "correct_questions": [
+            1,
+            7,
+            24
+          ],
+          "correct_count": 3
+        },
+        "2": {
+          "raw_score": 10,
+          "correct_questions": [
+            6,
+            12,
+            26
+          ],
+          "correct_count": 3
+        },
+        "3": {
+          "raw_score": 16,
+          "correct_questions": [
+            4,
+            5,
+            10,
+            11,
+            23
+          ],
+          "correct_count": 5
+        },
+        "4": {
+          "raw_score": 21,
+          "correct_questions": [
+            2,
+            9,
+            14,
+            15,
+            27,
+            28
+          ],
+          "correct_count": 6
+        },
+        "5": {
+          "raw_score": 13,
+          "correct_questions": [
+            3,
+            8,
+            13,
+            25
+          ],
+          "correct_count": 4
+        }
+      }
+    }
+  }
+}

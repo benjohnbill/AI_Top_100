@@ -1,0 +1,1659 @@
+{
+  "subjects": {
+    "경제": {
+      "per_choice": {
+        "1": {
+          "correct_count": 1,
+          "raw_score": 2,
+          "questions": [
+            1
+          ]
+        },
+        "2": {
+          "correct_count": 3,
+          "raw_score": 9,
+          "questions": [
+            2,
+            14,
+            5
+          ]
+        },
+        "3": {
+          "correct_count": 1,
+          "raw_score": 2,
+          "questions": [
+            4
+          ]
+        },
+        "4": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            11,
+            12
+          ]
+        },
+        "5": {
+          "correct_count": 3,
+          "raw_score": 7,
+          "questions": [
+            3,
+            13,
+            15
+          ]
+        }
+      }
+    },
+    "동아시아사": {
+      "per_choice": {
+        "1": {
+          "correct_count": 2,
+          "raw_score": 4,
+          "questions": [
+            3,
+            4
+          ]
+        },
+        "2": {
+          "correct_count": 2,
+          "raw_score": 6,
+          "questions": [
+            2,
+            15
+          ]
+        },
+        "3": {
+          "correct_count": 0,
+          "raw_score": 0,
+          "questions": []
+        },
+        "4": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            12,
+            5
+          ]
+        },
+        "5": {
+          "correct_count": 4,
+          "raw_score": 9,
+          "questions": [
+            1,
+            11,
+            13,
+            14
+          ]
+        }
+      }
+    },
+    "사회·문화": {
+      "per_choice": {
+        "1": {
+          "correct_count": 3,
+          "raw_score": 9,
+          "questions": [
+            12,
+            3,
+            5
+          ]
+        },
+        "2": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            2,
+            13
+          ]
+        },
+        "3": {
+          "correct_count": 0,
+          "raw_score": 0,
+          "questions": []
+        },
+        "4": {
+          "correct_count": 3,
+          "raw_score": 7,
+          "questions": [
+            11,
+            4,
+            14
+          ]
+        },
+        "5": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            1,
+            15
+          ]
+        }
+      }
+    },
+    "생활과 윤리": {
+      "per_choice": {
+        "1": {
+          "correct_count": 1,
+          "raw_score": 3,
+          "questions": [
+            14
+          ]
+        },
+        "2": {
+          "correct_count": 3,
+          "raw_score": 7,
+          "questions": [
+            1,
+            2,
+            3
+          ]
+        },
+        "3": {
+          "correct_count": 2,
+          "raw_score": 4,
+          "questions": [
+            5,
+            15
+          ]
+        },
+        "4": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            12,
+            13
+          ]
+        },
+        "5": {
+          "correct_count": 2,
+          "raw_score": 6,
+          "questions": [
+            11,
+            4
+          ]
+        }
+      }
+    },
+    "세계사": {
+      "per_choice": {
+        "1": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            1,
+            11
+          ]
+        },
+        "2": {
+          "correct_count": 3,
+          "raw_score": 8,
+          "questions": [
+            2,
+            5,
+            15
+          ]
+        },
+        "3": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            13,
+            14
+          ]
+        },
+        "4": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            12,
+            3
+          ]
+        },
+        "5": {
+          "correct_count": 1,
+          "raw_score": 3,
+          "questions": [
+            4
+          ]
+        }
+      }
+    },
+    "세계지리": {
+      "per_choice": {
+        "1": {
+          "correct_count": 1,
+          "raw_score": 2,
+          "questions": [
+            2
+          ]
+        },
+        "2": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            3,
+            15
+          ]
+        },
+        "3": {
+          "correct_count": 4,
+          "raw_score": 9,
+          "questions": [
+            12,
+            4,
+            14,
+            5
+          ]
+        },
+        "4": {
+          "correct_count": 1,
+          "raw_score": 3,
+          "questions": [
+            11
+          ]
+        },
+        "5": {
+          "correct_count": 2,
+          "raw_score": 6,
+          "questions": [
+            1,
+            13
+          ]
+        }
+      }
+    },
+    "윤리와 사상": {
+      "per_choice": {
+        "1": {
+          "correct_count": 1,
+          "raw_score": 2,
+          "questions": [
+            13
+          ]
+        },
+        "2": {
+          "correct_count": 0,
+          "raw_score": 0,
+          "questions": []
+        },
+        "3": {
+          "correct_count": 4,
+          "raw_score": 9,
+          "questions": [
+            11,
+            2,
+            3,
+            4
+          ]
+        },
+        "4": {
+          "correct_count": 4,
+          "raw_score": 10,
+          "questions": [
+            12,
+            14,
+            5,
+            15
+          ]
+        },
+        "5": {
+          "correct_count": 1,
+          "raw_score": 2,
+          "questions": [
+            1
+          ]
+        }
+      }
+    },
+    "정치와 법": {
+      "per_choice": {
+        "1": {
+          "correct_count": 3,
+          "raw_score": 7,
+          "questions": [
+            2,
+            12,
+            4
+          ]
+        },
+        "2": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            11,
+            14
+          ]
+        },
+        "3": {
+          "correct_count": 1,
+          "raw_score": 2,
+          "questions": [
+            3
+          ]
+        },
+        "4": {
+          "correct_count": 1,
+          "raw_score": 3,
+          "questions": [
+            13
+          ]
+        },
+        "5": {
+          "correct_count": 3,
+          "raw_score": 7,
+          "questions": [
+            1,
+            5,
+            15
+          ]
+        }
+      }
+    },
+    "한국지리": {
+      "per_choice": {
+        "1": {
+          "correct_count": 1,
+          "raw_score": 3,
+          "questions": [
+            12
+          ]
+        },
+        "2": {
+          "correct_count": 1,
+          "raw_score": 2,
+          "questions": [
+            13
+          ]
+        },
+        "3": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            14,
+            5
+          ]
+        },
+        "4": {
+          "correct_count": 4,
+          "raw_score": 9,
+          "questions": [
+            1,
+            11,
+            3,
+            15
+          ]
+        },
+        "5": {
+          "correct_count": 2,
+          "raw_score": 5,
+          "questions": [
+            2,
+            4
+          ]
+        }
+      }
+    }
+  },
+  "pairs": [
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "경제",
+      "inquiry_2": "동아시아사",
+      "combined_raw_score": 6,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "경제",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "경제",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 4,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "경제",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 4,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "경제",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "경제",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 6,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 6,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 11,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 14,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 16,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 6,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "세계사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "세계사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "세계사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "세계사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 4,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 1,
+      "inquiry_1": "정치와 법",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "경제",
+      "inquiry_2": "동아시아사",
+      "combined_raw_score": 15,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "경제",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 14,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "경제",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 16,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 17,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "경제",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 9,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "경제",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 14,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "경제",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 14,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 6,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "세계사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "세계사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "세계사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "세계사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 2,
+      "combined_correct_count": 1
+    },
+    {
+      "uniform_choice": 2,
+      "inquiry_1": "정치와 법",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "경제",
+      "inquiry_2": "동아시아사",
+      "combined_raw_score": 2,
+      "combined_correct_count": 1
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "경제",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 2,
+      "combined_correct_count": 1
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "경제",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 6,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 11,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "경제",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 11,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "경제",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 4,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "경제",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 0,
+      "combined_correct_count": 0
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 4,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 2,
+      "combined_correct_count": 1
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 4,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 2,
+      "combined_correct_count": 1
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 13,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 13,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 6,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "세계사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "세계사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "세계사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "세계사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 18,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 11,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 11,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 3,
+      "inquiry_1": "정치와 법",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "경제",
+      "inquiry_2": "동아시아사",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "경제",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "경제",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "경제",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "경제",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "경제",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 17,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "세계사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "세계사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "세계사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "세계사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 6,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 19,
+      "combined_correct_count": 8
+    },
+    {
+      "uniform_choice": 4,
+      "inquiry_1": "정치와 법",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "경제",
+      "inquiry_2": "동아시아사",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "경제",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "경제",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "경제",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "경제",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "경제",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "경제",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "사회·문화",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 15,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 11,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 16,
+      "combined_correct_count": 7
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "동아시아사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 14,
+      "combined_correct_count": 6
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "생활과 윤리",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "사회·문화",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계사",
+      "combined_raw_score": 9,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "생활과 윤리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "세계사",
+      "inquiry_2": "세계지리",
+      "combined_raw_score": 9,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "세계사",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 5,
+      "combined_correct_count": 2
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "세계사",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 10,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "세계사",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "윤리와 사상",
+      "combined_raw_score": 8,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 13,
+      "combined_correct_count": 5
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "세계지리",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 11,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "정치와 법",
+      "combined_raw_score": 9,
+      "combined_correct_count": 4
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "윤리와 사상",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 7,
+      "combined_correct_count": 3
+    },
+    {
+      "uniform_choice": 5,
+      "inquiry_1": "정치와 법",
+      "inquiry_2": "한국지리",
+      "combined_raw_score": 12,
+      "combined_correct_count": 5
+    }
+  ]
+}

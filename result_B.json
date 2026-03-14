@@ -1,0 +1,263 @@
+[
+  {
+    "task": 1,
+    "id": "answer_1",
+    "answer": "50",
+    "flag": null
+  },
+  {
+    "task": 2,
+    "id": "animal_candidates",
+    "answer": [
+      "30",
+      "32",
+      "48"
+    ],
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "26",
+    "answer": {
+      "artist": "Paul Cézanne"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "27",
+    "answer": {
+      "artist": "Edgar Degas"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "28",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "29",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "30",
+    "answer": {
+      "artist": "김홍도"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "31",
+    "answer": {
+      "artist": "정선"
+    },
+    "flag": "low confidence; verify East Asian coastal landscape attribution"
+  },
+  {
+    "task": 3,
+    "id": "32",
+    "answer": {
+      "artist": "신사임당"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "33",
+    "answer": {
+      "artist": "김홍도"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "34",
+    "answer": {
+      "artist": "Edgar Degas"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "35",
+    "answer": {
+      "artist": "Paul Cézanne"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "36",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "37",
+    "answer": {
+      "artist": "Paul Cézanne"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "38",
+    "answer": {
+      "artist": "신윤복"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "39",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "40",
+    "answer": {
+      "artist": "FAKE"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "41",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "42",
+    "answer": {
+      "artist": "Vincent van Gogh"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "43",
+    "answer": {
+      "artist": "Leonardo da Vinci"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "44",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "45",
+    "answer": {
+      "artist": "Paul Cézanne"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "46",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "47",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "48",
+    "answer": {
+      "artist": "김홍도"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "49",
+    "answer": {
+      "artist": "Johannes Vermeer"
+    },
+    "flag": null
+  },
+  {
+    "task": 3,
+    "id": "50",
+    "answer": {
+      "artist": "Claude Monet"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "29",
+    "answer": {
+      "title": "The Music Lesson",
+      "museum": "Royal Collection, Windsor Castle"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "39",
+    "answer": {
+      "title": "Woman in Blue Reading a Letter",
+      "museum": "Rijksmuseum, Amsterdam"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "46",
+    "answer": {
+      "title": "Girl with a Pearl Earring",
+      "museum": "Mauritshuis, The Hague"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "47",
+    "answer": {
+      "title": "The Lacemaker",
+      "museum": "Louvre, Paris"
+    },
+    "flag": null
+  },
+  {
+    "task": 4,
+    "id": "49",
+    "answer": {
+      "title": "The Geographer",
+      "museum": "Städel Museum, Frankfurt"
+    },
+    "flag": null
+  }
+]

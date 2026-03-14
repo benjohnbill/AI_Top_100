@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Kakao University CS Admission - Application, Schedule, Scholarships">
+    <title>Admission - Kakao University Dept. of Computer Science</title>
+    <link rel="icon" href="../images/icons/en_favicon.png" type="image/png">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body lang="en">
+    <a href="#main-content" class="skip-link">Skip to content</a>
+
+    <header class="header" data-qa-id="header">
+        <div class="header__inner">
+            <a href="index.html" class="header__logo" data-qa-id="logo">
+                <img src="../images/icons/en_logo.png" alt="Kakao University Logo">
+                <div class="header__logo-text">
+                    <span class="header__logo-univ">Kakao University</span>
+                    <span class="header__logo-dept">Dept. of Computer Science</span>
+                </div>
+            </a>
+
+            <nav class="nav" data-qa-id="main-nav">
+                <ul class="nav__list">
+                    <li><a href="about.html" class="nav__link">About</a></li>
+                    <li><a href="curriculum.html" class="nav__link">Curriculum</a></li>
+                    <li><a href="admission.html" class="nav__link nav__link--active">Admission</a></li>
+                    <li><a href="faculty/index.html" class="nav__link">Faculty</a></li>
+                    <li><a href="news.html" class="nav__link">News</a></li>
+                    <li><a href="contact.html" class="nav__link">Contact</a></li>
+                </ul>
+
+                <div class="lang-switch" data-qa-id="lang-switch">
+                    <a href="../ko/admission.html" class="lang-switch__btn">KO</a>
+                    <button class="lang-switch__btn lang-switch__btn--active" aria-current="true">EN</button>
+                </div>
+            </nav>
+
+            <button class="menu-toggle" data-qa-id="menu-toggle" aria-label="Open menu" aria-expanded="false">
+                <span class="menu-toggle__bar"></span>
+                <span class="menu-toggle__bar"></span>
+                <span class="menu-toggle__bar"></span>
+            </button>
+        </div>
+    </header>
+
+    <main id="main-content" class="main-content">
+        <nav class="breadcrumb" aria-label="Breadcrumb" data-qa-id="breadcrumb">
+            <div class="container">
+                <ol class="breadcrumb__list">
+                    <li class="breadcrumb__item"><a href="index.html">Home</a></li>
+                    <li class="breadcrumb__separator">/</li>
+                    <li class="breadcrumb__item breadcrumb__current">Admission</li>
+                </ol>
+            </div>
+        </nav>
+
+        <section class="page-header" data-qa-id="page-header">
+            <div class="container">
+                <h1 class="page-header__title">Admission</h1>
+                <p class="page-header__desc">
+                    We are recruiting new students for the 2026 academic year.
+                </p>
+            </div>
+        </section>
+
+        <section class="section" data-qa-id="admission-types">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">Admission Types</h2>
+                    <p class="section-header__subtitle">We select talents through various admission tracks</p>
+                </div>
+
+                <div class="grid grid--2">
+                    <div class="card" data-qa-id="admission-early">
+                        <div class="card__body">
+                            <h3 class="card__title">Rolling Admission</h3>
+                            <p class="card__text">Comprehensive Review, Academic Record, SW Talent</p>
+                            <ul class="faculty-detail__list">
+                                <li><strong>Comprehensive Review</strong>: 25 students</li>
+                                <li><strong>Academic Record</strong>: 20 students</li>
+                                <li><strong>SW Talent</strong>: 10 students</li>
+                            </ul>
+                            <p class="text-sm text-secondary mt-md">
+                                * SW Talent: Preference for Olympiad, programming contest winners
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="card" data-qa-id="admission-regular">
+                        <div class="card__body">
+                            <h3 class="card__title">Regular Admission</h3>
+                            <p class="card__text">Selection based on CSAT scores</p>
+                            <ul class="faculty-detail__list">
+                                <li><strong>Group A</strong>: 13 students</li>
+                                <li><strong>Group B</strong>: 12 students</li>
+                            </ul>
+                            <p class="text-sm text-secondary mt-md">
+                                * CSAT weight: Korean 25%, Math 35%, English 20%, Elective 20%
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section--alt" data-qa-id="schedule-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">Application Schedule</h2>
+                </div>
+
+                <div class="table-container" data-qa-id="schedule-table">
+                    <table class="schedule-table">
+                        <thead>
+                            <tr>
+                                <th>Admission Track</th>
+                                <th>Application Period</th>
+                                <th>Document Submission</th>
+                                <th>Interview</th>
+                                <th>Results Announcement</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr data-qa-id="schedule-comprehensive">
+                                <td>Comprehensive Review</td>
+                                <td>Sep<br>9-13</td>
+                                <td>Sep<br>16-20</td>
+                                <td>Oct<br>19-20</td>
+                                <td>Nov<br>15</td>
+                            </tr>
+                            <tr data-qa-id="schedule-subject">
+                                <td>Academic Record</td>
+                                <td>Sep<br>9-13</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>Nov<br>15</td>
+                            </tr>
+                            <tr data-qa-id="schedule-sw">
+                                <td>SW Talent</td>
+                                <td>Sep<br>9-13</td>
+                                <td>Sep<br>16-20</td>
+                                <td>Oct<br>26-27</td>
+                                <td>Nov<br>15</td>
+                            </tr>
+                            <tr data-qa-id="schedule-regular-ga">
+                                <td>Regular Admission (Group A)</td>
+                                <td>Jan<br>3-6</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>Feb<br>7</td>
+                            </tr>
+                            <tr data-qa-id="schedule-regular-na">
+                                <td>Regular Admission (Group B)</td>
+                                <td>Jan<br>3-6</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>Feb<br>7</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" data-qa-id="scholarship-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">Scholarships</h2>
+                    <p class="section-header__subtitle">We provide various scholarship benefits</p>
+                </div>
+
+                <div class="grid grid--3">
+                    <div class="card" data-qa-id="scholarship-merit">
+                        <div class="card__body">
+                            <h3 class="card__title">Merit Scholarship</h3>
+                            <p class="card__text">
+                                For top performers in admission
+                            </p>
+                            <p class="text-secondary">
+                                50% ~ Full tuition
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="card" data-qa-id="scholarship-sw">
+                        <div class="card__body">
+                            <h3 class="card__title">SW Talent Scholarship</h3>
+                            <p class="card__text">
+                                For SW Talent admission and SW excellence
+                            </p>
+                            <p class="text-secondary">
+                                Full tuition + living expenses
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="card" data-qa-id="scholarship-need">
+                        <div class="card__body">
+                            <h3 class="card__title">Need-based Scholarship</h3>
+                            <p class="card__text">
+                                For students with financial difficulties
+                            </p>
+                            <p class="text-secondary">
+                                50% ~ Full tuition
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section section--alt" data-qa-id="faq-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">FAQ</h2>
+                </div>
+
+                <div class="faq-list" data-qa-id="faq-list">
+                    <div class="faq-item" data-qa-id="faq-1">
+                        <button class="faq-item__question" tabindex="0">
+                            <span>What are the eligibility requirements?</span>
+                            <span class="faq-item__icon">
+                                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="6 9 12 15 18 9"/>
+                                </svg>
+                            </span>
+                        </button>
+                        <div class="faq-item__answer">
+                            Anyone who has graduated (or is expected to graduate) from high school or has equivalent qualifications can apply. There is no distinction between arts and sciences, and no prior coding experience is required.
+                        </div>
+                    </div>
+
+                    <div class="faq-item" data-qa-id="faq-2">
+                        <button class="faq-item__question" tabindex="0">
+                            <span>What are the SW Talent admission requirements?</span>
+                            <span class="faq-item__icon">
+                                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="6 9 12 15 18 9"/>
+                                </svg>
+                            </span>
+                        </button>
+                        <div class="faq-item__answer">
+                            For students with achievements in Olympiad, ACM-ICPC, or other recognized programming competitions, or notable activities in open source contributions, app/web development. Portfolio submission required.
+                        </div>
+                    </div>
+
+                    <div class="faq-item" data-qa-id="faq-3">
+                        <button class="faq-item__question" tabindex="0">
+                            <span>How is the interview conducted?</span>
+                            <span class="faq-item__icon">
+                                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="6 9 12 15 18 9"/>
+                                </svg>
+                            </span>
+                        </button>
+                        <div class="faq-item__answer">
+                            Individual interviews last about 15 minutes. Based on submitted documents, we comprehensively evaluate academic capability, major suitability, and character. There is no separate coding test.
+                        </div>
+                    </div>
+
+                    <div class="faq-item" data-qa-id="faq-4">
+                        <button class="faq-item__question" tabindex="0">
+                            <span>Is double major or minor available?</span>
+                            <span class="faq-item__icon">
+                                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="6 9 12 15 18 9"/>
+                                </svg>
+                            </span>
+                        </button>
+                        <div class="faq-item__answer">
+                            Yes. Double major and minor applications are available from sophomore year. We encourage convergence education with various departments such as Business and Design.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section" data-qa-id="contact-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-header__title">Admission Counseling</h2>
+                </div>
+
+                <div class="grid grid--2">
+                    <div>
+                        <h3>Admissions Office</h3>
+                        <p class="text-secondary">
+                            Feel free to contact us with any questions about admission.
+                        </p>
+                        <ul class="faculty-detail__list mt-md">
+                            <li><strong>Phone</strong>: 031-1234-0000</li>
+                            <li><strong>Email</strong>: admission@kakao-univ.ac.kr</li>
+                            <li><strong>Hours</strong>: Weekdays 09:00 ~ 18:00</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Campus Visit</h3>
+                        <p class="text-secondary">
+                            Please make a reservation in advance for campus tours and counseling.
+                        </p>
+                        <a href="contact.html" class="btn btn--primary mt-md">Directions</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer" data-qa-id="footer">
+        <div class="container">
+            <div class="footer__inner">
+                <div class="footer__brand">
+                    <a href="index.html" class="footer__logo">
+                        <img src="../images/icons/en_logo.png" alt="Kakao University">
+                        <span>Dept. of Computer Science</span>
+                    </a>
+                    <p class="footer__desc">
+                        Kakao University's Department of Computer Science has been nurturing IT industry leaders since 2010.
+                    </p>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Quick Links</h4>
+                    <nav class="footer__links">
+                        <a href="about.html" class="footer__link">About</a>
+                        <a href="curriculum.html" class="footer__link">Curriculum</a>
+                        <a href="admission.html" class="footer__link">Admission</a>
+                        <a href="faculty/index.html" class="footer__link">Faculty</a>
+                    </nav>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Contact</h4>
+                    <nav class="footer__links">
+                        <span class="footer__link">031-1234-5678</span>
+                        <span class="footer__link">cs@kakao-univ.ac.kr</span>
+                        <span class="footer__link">7 Hosu-ro 96beon-gil, Suji-gu, Yongin</span>
+                    </nav>
+                </div>
+
+                <div class="footer__section">
+                    <h4>Mobile Access</h4>
+                    <div class="footer__qr" data-qa-id="footer-qr">
+                        <img src="../images/qr/en_qr.png" alt="QR Code">
+                        <span class="footer__qr-text">Scan to access</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer__bottom">
+                <p class="footer__copyright">
+                    &copy; 2025 Kakao University Dept. of Computer Science. All rights reserved.
+                </p>
+                <div class="footer__social" data-qa-id="footer-social">
+                    <a href="https://github.com" target="_blank" rel="noopener" aria-label="GitHub">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+                        </svg>
+                    </a>
+                    <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="YouTube">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                        </svg>
+                    </a>
+                    <a href="https://kko.to/T_gsD2TFJ4" target="_blank" rel="noopener" aria-label="Map">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+                            <circle cx="12" cy="10" r="3" fill="#1E293B"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>

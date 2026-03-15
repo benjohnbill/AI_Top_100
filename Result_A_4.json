@@ -1,0 +1,144 @@
+{
+  "team": "Worker_A",
+  "task": "spec.pdf 기준 검증 전담",
+  "source_document": "D:\\OneDrive\\바탕 화면\\Life_System\\00_Inbox\\ai_top_100_campus_webqa\\spec.pdf",
+  "status": "blocked_missing_options",
+  "blocking_reason": "Q1/Q2의 실제 보기 문장이 제공되지 않아 각 보기별 O/X와 최종 정답 문장을 확정할 수 없음",
+  "spec_evidence_summary": {
+    "page_mapping_table": {
+      "pages": [
+        "spec p2",
+        "spec p3"
+      ],
+      "entries": {
+        "P01": "index.html",
+        "P02": "ko/index.html",
+        "P03": "ko/about.html",
+        "P04": "ko/curriculum.html",
+        "P05": "ko/admission.html",
+        "P06": "ko/news.html",
+        "P07": "ko/contact.html",
+        "P08": "ko/faculty/index.html",
+        "P09": "ko/faculty/professor-001.html",
+        "P10": "ko/faculty/professor-002.html",
+        "P11": "ko/faculty/professor-003.html",
+        "P12": "ko/faculty/professor-004.html",
+        "P13": "ko/faculty/professor-005.html",
+        "P14": "ko/faculty/professor-006.html",
+        "P15": "ko/faculty/professor-007.html",
+        "P16": "ko/faculty/professor-008.html",
+        "P17": "ko/faculty/professor-009.html",
+        "P18": "ko/faculty/professor-010.html",
+        "P19": "ko/faculty/professor-011.html",
+        "P20": "ko/faculty/professor-012.html",
+        "P21": "ko/faculty/professor-013.html",
+        "P22": "ko/faculty/professor-014.html",
+        "P23": "ko/faculty/professor-015.html",
+        "P24": "en/index.html",
+        "P25": "en/about.html",
+        "P26": "en/curriculum.html",
+        "P27": "en/admission.html",
+        "P28": "en/news.html",
+        "P29": "en/contact.html",
+        "P30": "en/faculty/index.html",
+        "P31": "en/faculty/professor-001.html",
+        "P32": "en/faculty/professor-002.html",
+        "P33": "en/faculty/professor-003.html",
+        "P34": "en/faculty/professor-004.html",
+        "P35": "en/faculty/professor-005.html",
+        "P36": "en/faculty/professor-006.html",
+        "P37": "en/faculty/professor-007.html",
+        "P38": "en/faculty/professor-008.html",
+        "P39": "en/faculty/professor-009.html",
+        "P40": "en/faculty/professor-010.html",
+        "P41": "en/faculty/professor-011.html",
+        "P42": "en/faculty/professor-012.html",
+        "P43": "en/faculty/professor-013.html",
+        "P44": "en/faculty/professor-014.html",
+        "P45": "en/faculty/professor-015.html"
+      }
+    },
+    "development_spec_facts": {
+      "color_standard": {
+        "pages": [
+          "spec p3",
+          "spec p4"
+        ],
+        "values": {
+          "Primary": "#2563EB",
+          "Primary Dark": "#1D4ED8",
+          "Secondary": "#059669",
+          "Background": "#FFFFFF",
+          "Surface": "#F8FAFC",
+          "Border": "#E2E8F0",
+          "Text Primary": "#1E293B",
+          "Text Secondary": "#64748B",
+          "Text Tertiary": "#94A3B8"
+        }
+      },
+      "mobile_standard": {
+        "pages": [
+          "spec p4"
+        ],
+        "values": {
+          "desktop_range": ">1024px",
+          "tablet_range": "768px ~ 1024px",
+          "mobile_range": "<768px",
+          "mobile_check_rule": "모바일 검수는 Mobile (<768px) 구간에서 수행",
+          "layout_rule": "본문 레이아웃은 뷰포트 폭을 벗어나지 않도록 구성",
+          "scroll_rule": "표, 카드, 그리드 등 주요 콘텐츠는 모바일에서 수평 스크롤 없이 읽을 수 있어야 함",
+          "navigation_rule": "모바일 네비게이션은 햄버거 메뉴 방식으로 전환"
+        }
+      },
+      "qr_standard": {
+        "pages": [
+          "spec p5",
+          "spec p18"
+        ],
+        "values": {
+          "KO": "images/qr/ko_qr.png",
+          "EN": "images/qr/en_qr.png",
+          "format": "PNG"
+        }
+      },
+      "image_format_standard": {
+        "pages": [
+          "spec p7",
+          "spec p8",
+          "spec p12",
+          "spec p13",
+          "spec p18"
+        ],
+        "values": {
+          "campus_news_general_images": "JPG 또는 PNG",
+          "icons_logo": "PNG 또는 SVG",
+          "qr_images": "PNG",
+          "file_format_consistency": "파일 확장자와 실제 파일 포맷이 일치해야 함"
+        }
+      },
+      "image_size_standard": {
+        "pages": [
+          "spec p19",
+          "spec p20"
+        ],
+        "values": {
+          "limit": "1280px/1MB 기준",
+          "checklist_item": "이미지 파일이 1280px/1MB 기준을 충족한다",
+          "change_history_note": "2024-11-11 이미지 제한(1280px, 1MB) 확정"
+        }
+      }
+    }
+  },
+  "q1": {
+    "prompt": "다음 중 홈페이지 개발 스펙으로 올바른 내용",
+    "option_judgments": [],
+    "final_answer": null,
+    "note": "보기 문장 미제공으로 각 보기별 판정 불가"
+  },
+  "q2": {
+    "prompt": "페이지 번호와 페이지 경로 매핑 중 올바르지 않은 것",
+    "option_judgments": [],
+    "final_answer": null,
+    "note": "보기 문장 미제공으로 각 보기별 판정 불가"
+  }
+}

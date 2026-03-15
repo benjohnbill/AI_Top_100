@@ -1,0 +1,31 @@
+[
+  {
+    "task": 5,
+    "id": "q5_1",
+    "answer": "",
+    "evidence": "",
+    "location": "",
+    "confidence": "low",
+    "flag": "source image missing"
+  },
+  {
+    "task": 5,
+    "id": "q5_2",
+    "answer": "",
+    "evidence": "",
+    "location": "",
+    "calculation": "",
+    "confidence": "low",
+    "flag": "source image missing"
+  },
+  {
+    "task": 5,
+    "id": "q5_3",
+    "answer": "",
+    "evidence": "",
+    "location": "",
+    "calculation": "",
+    "confidence": "low",
+    "flag": "source image missing"
+  }
+]

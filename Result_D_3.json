@@ -1,102 +1,153 @@
-[
-  {
-    "task": 5,
-    "id": "team_d_member_scores",
-    "answer": {
-      "members": {
-        "성민": {
-          "resource_count": 7,
-          "resource_norm": 1.0,
-          "promise_rate": 1.0,
-          "ppt_score": 0.5,
-          "final_contribution_score": 0.8,
-          "freerider": false
-        },
-        "재현": {
-          "resource_count": 1,
-          "resource_norm": 0.1429,
-          "promise_rate": 0.5,
-          "ppt_score": 0.5,
-          "final_contribution_score": 0.3571,
-          "freerider": false
-        },
-        "유나": {
-          "resource_count": 0,
-          "resource_norm": 0.0,
-          "promise_rate": 1.0,
-          "ppt_score": 1.0,
-          "final_contribution_score": 0.6,
-          "freerider": false
-        }
+{
+  "team": "Team_D",
+  "source_note": "screenshots/chat OCR, resources folder, and presentation v1/final comparison were combined. Overlapping screenshot windows were deduplicated before judging promises and schedule evidence.",
+  "team_d_member_scores": [
+    {
+      "member": "성민",
+      "role_in_chat": "시장 조사 / 자료 수집",
+      "resource_count": 7,
+      "resource_norm": 1.0,
+      "promise_rate": 1.0,
+      "ppt_score": 0.3,
+      "final_contribution_score": 0.72,
+      "freerider": false,
+      "evidence": {
+        "resources": [
+          "소방청_무인매장현황_2024Q1.xlsx",
+          "startup_cost_guide.docx",
+          "무인카페_성공사례_바리봇24_강남.docx",
+          "MZ세대_무인카페_선호도_설문결과.xlsx",
+          "competitor-analysis-2024.docx",
+          "무인매장_트렌드리포트_2024.docx",
+          "business-pitch-template-2024.pdf"
+        ],
+        "promise_basis": "초기 역할 분담에서 시장조사/자료수집 담당을 맡았고, 2024-05-08~2024-05-13 사이 실제 자료 7건을 공유했다.",
+        "ppt_basis": "PPT 템플릿을 공유했고, final PDF에 추가된 경쟁사 비교 슬라이드의 원자료를 제공했다."
       }
     },
-    "flag": null
-  },
-  {
-    "task": 5,
-    "id": "team_d_freerider",
-    "answer": {
-      "result": null
-    },
-    "flag": null
-  },
-  {
-    "task": 6,
-    "id": "team_d_schedule_matrix",
-    "answer": {
-      "hour_slots": [
-        "09:00-10:00",
-        "10:00-11:00",
-        "11:00-12:00",
-        "12:00-13:00",
-        "13:00-14:00",
-        "14:00-15:00",
-        "15:00-16:00",
-        "16:00-17:00",
-        "17:00-18:00"
-      ],
-      "members": {
-        "성민": {
-          "Mon": ["busy", "busy", "free", "free", "free", "free", "free", "free", "free"],
-          "Tue": ["free", "free", "busy", "free", "free", "free", "free", "free", "free"],
-          "Wed": ["busy", "busy", "free", "free", "busy", "busy", "busy", "free", "free"],
-          "Thu": ["free", "free", "busy", "free", "free", "free", "free", "free", "free"],
-          "Fri": ["busy", "busy", "free", "free", "free", "free", "free", "busy", "unknown"]
-        },
-        "재현": {
-          "Mon": ["busy", "busy", "free", "free", "busy", "busy", "busy", "busy", "free"],
-          "Tue": ["free", "free", "free", "free", "busy", "busy", "busy", "busy", "free"],
-          "Wed": ["busy", "busy", "free", "free", "busy", "busy", "busy", "busy", "free"],
-          "Thu": ["free", "free", "busy", "free", "busy", "busy", "busy", "busy", "unknown"],
-          "Fri": ["busy", "busy", "free", "free", "free", "free", "free", "busy", "unknown"]
-        },
-        "유나": {
-          "Mon": ["free", "free", "busy", "free", "busy", "busy", "free", "free", "free"],
-          "Tue": ["busy", "busy", "free", "free", "free", "free", "busy", "busy", "unknown"],
-          "Wed": ["free", "free", "busy", "free", "free", "free", "free", "busy", "unknown"],
-          "Thu": ["busy", "busy", "free", "free", "busy", "busy", "busy", "busy", "unknown"],
-          "Fri": ["busy", "busy", "busy", "free", "free", "free", "free", "busy", "unknown"]
-        }
+    {
+      "member": "재현",
+      "role_in_chat": "데이터 분석 / 손익분기점",
+      "resource_count": 1,
+      "resource_norm": 0.143,
+      "promise_rate": 0.5,
+      "ppt_score": 0.1,
+      "final_contribution_score": 0.197,
+      "freerider": true,
+      "evidence": {
+        "resources": [
+          "revenue-analysis-xK7mP2.xlsx"
+        ],
+        "promise_basis": "손익분기점 초안을 다음날 보내겠다고 했지만 2024-05-11에 재촉을 받은 뒤 2024-05-12에야 공유해 지연 이행으로 판단했다.",
+        "ppt_basis": "재무계획 슬라이드의 수치 원자료는 제공했지만, PPT 제작/수정 직접 기여 정황은 약하다."
       }
     },
-    "flag": "중복 스크린샷 제거 후 1시간 단위 보수 해석; 종료시각이 없는 4시 시작 수업은 16:00-17:00 busy, 17:00-18:00 unknown 처리"
+    {
+      "member": "유나",
+      "role_in_chat": "PPT 제작",
+      "resource_count": 0,
+      "resource_norm": 0.0,
+      "promise_rate": 1.0,
+      "ppt_score": 1.0,
+      "final_contribution_score": 0.6,
+      "freerider": false,
+      "evidence": {
+        "resources": [],
+        "promise_basis": "초기 역할 분담에서 PPT 담당을 맡았고 2024-05-14 v1 초안, 2024-05-15 final 수정본을 공유했다.",
+        "ppt_basis": "presentation 비교 결과 v1(12p)에서 final(13p)로 확장되며 경쟁사 비교 슬라이드가 추가됐고, 채팅상 수정본 업로드도 유나가 수행했다."
+      }
+    }
+  ],
+  "team_d_freerider": {
+    "threshold": 0.3,
+    "members": [
+      {
+        "member": "재현",
+        "final_contribution_score": 0.197,
+        "reason": "자료 기여 1건, 약속 지연 이행, PPT 직접 기여 낮음"
+      }
+    ]
   },
-  {
-    "task": 6,
-    "id": "team_d_weekday_common_slot",
-    "answer": {
-      "exists": true,
-      "common_slots": [
-        "Mon 12:00-13:00",
-        "Mon 17:00-18:00",
-        "Tue 12:00-13:00",
-        "Wed 12:00-13:00",
-        "Fri 12:00-13:00",
-        "Fri 13:00-14:00",
-        "Fri 14:00-15:00",
-        "Fri 15:00-16:00"
-      ]
-    },
-    "flag": null
+  "team_d_schedule_matrix": {
+    "normalization_note": "OCR로 읽힌 채팅을 기준으로 1시간 단위로 정리했다. 일부 과목명/요일은 겹치는 스크린샷을 제거한 뒤 보수적으로 배치했다.",
+    "members": {
+      "성민": {
+        "Mon": [
+          "09:00-11:00 프로그래밍"
+        ],
+        "Tue": [
+          "11:00-12:00 경제학원론"
+        ],
+        "Wed": [
+          "09:00-11:00 프로그래밍",
+          "13:00-15:00 조직행동론"
+        ],
+        "Thu": [
+          "11:00-12:00 경제학원론",
+          "16:00-18:00 창업론"
+        ],
+        "Fri": [
+          "09:00-11:00 경영통계",
+          "16:00-18:00 창업론"
+        ]
+      },
+      "재현": {
+        "Mon": [
+          "09:00-11:00 데이터분석",
+          "13:00-15:00 회계원리",
+          "15:00-17:00 재무관리"
+        ],
+        "Tue": [
+          "13:00-15:00 회계원리",
+          "15:00-17:00 재무관리"
+        ],
+        "Wed": [
+          "09:00-11:00 데이터분석",
+          "13:00-15:00 회계원리",
+          "15:00-17:00 경영전략"
+        ],
+        "Thu": [
+          "11:00-12:00 마케팅원론",
+          "13:00-15:00 회계원리",
+          "15:00-17:00 재무관리",
+          "16:00-18:00 창업론"
+        ],
+        "Fri": [
+          "09:00-11:00 통계학",
+          "16:00-18:00 창업론"
+        ]
+      },
+      "유나": {
+        "Mon": [
+          "11:00-12:00 색채학",
+          "13:00-15:00 영상편집"
+        ],
+        "Tue": [
+          "09:00-11:00 디자인기초",
+          "15:00-16:00 타이포그래피",
+          "16:00-18:00 창업론"
+        ],
+        "Wed": [
+          "11:00-12:00 색채학",
+          "16:00-18:00 창업론"
+        ],
+        "Thu": [
+          "09:00-11:00 디자인기초",
+          "13:00-15:00 영상편집",
+          "15:00-16:00 타이포그래피",
+          "16:00-18:00 창업론"
+        ],
+        "Fri": [
+          "09:00-12:00 영상제작",
+          "16:00-18:00 창업론"
+        ]
+      }
+    }
+  },
+  "team_d_weekday_common_slot": {
+    "exists": true,
+    "slot": "Friday 12:00-13:00",
+    "korean_slot": "금요일 12:00-13:00",
+    "basis": "채팅에서 팀원들이 '금요일 12시에 도서관에서 봐요'로 합의했다. 각자 금요일 오전 수업은 있으나 12시 점심 시간대는 공통으로 비는 것으로 정리된다."
   }
-]
+}

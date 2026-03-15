@@ -1,0 +1,47 @@
+{
+  "worker": "D",
+  "task": "Q6 모바일 해상도 390x844 기준, 개발 스펙에 맞지 않은 레이아웃을 보이는 페이지 번호 식별",
+  "viewport": "390x844",
+  "spec_source": "D:\\OneDrive\\바탕 화면\\Life_System\\00_Inbox\\ai_top_100_campus_webqa\\spec.pdf",
+  "site_root": "D:\\OneDrive\\바탕 화면\\Life_System\\00_Inbox\\ai_top_100_campus_webqa\\site",
+  "inspection_results": [
+    {
+      "page": "P03",
+      "path": "ko/about.html",
+      "status": "정상",
+      "reason": "모바일에서 2열/3열 그리드가 1열로 전환되며, 수상·인증 영역도 스펙대로 1열 대응이 들어가 있다. quick jump는 JS로 삽입되지만 모바일에서 section-quick-nav가 static으로 바뀌도록 CSS가 있어 제목을 가릴 가능성은 낮다."
+    },
+    {
+      "page": "P04",
+      "path": "ko/curriculum.html",
+      "status": "의심",
+      "reason": "과목 카드 내부 .course-item에 white-space: nowrap가 있어 긴 과목명이 모바일에서 줄바꿈되지 않는다. 다만 학년 카드 그리드는 1열로 전환되고, 표는 3열이라 P05보다 수평 오버플로우 위험도는 낮다."
+    },
+    {
+      "page": "P05",
+      "path": "ko/admission.html",
+      "status": "의심",
+      "reason": "모집 일정 표가 5열 구조를 모바일에서도 유지한다. CSS에서 .table-container에 overflow-x: auto를 적용하고 .schedule-table은 열 구조를 그대로 둔 채 셀 padding/font만 줄이므로, 스펙의 '모바일에서 표를 수평 스크롤 없이 읽을 수 있어야 한다' 기준과 충돌한다."
+    },
+    {
+      "page": "P06",
+      "path": "ko/news.html",
+      "status": "정상",
+      "reason": "news-item은 모바일에서 flex-direction: column으로 전환되고 날짜 영역도 auto 폭으로 바뀐다. 필터 버튼은 wrap 허용이라 390px 폭에서 수평 스크롤을 만들 구조가 아니다."
+    },
+    {
+      "page": "P07",
+      "path": "ko/contact.html",
+      "status": "정상",
+      "reason": "contact-grid는 모바일에서 1열로 전환되고, 교직원 표는 staff-table 전용 모바일 규칙으로 카드형 블록으로 재구성된다. 같은 표 계열이지만 P05와 달리 모바일 전용 해체 규칙이 있어 스펙 적합성이 높다."
+    },
+    {
+      "page": "P08",
+      "path": "ko/faculty/index.html",
+      "status": "정상",
+      "reason": "교수 카드 그리드는 .grid--3의 모바일 1열 전환을 그대로 받는다. 카드 내부 텍스트도 강한 nowrap 규칙이 없어 390px에서 뷰포트 이탈 가능성은 낮다."
+    }
+  ],
+  "final_answer": "P05",
+  "reproduction_basis": "spec.pdf 4. 모바일 레이아웃 기준에는 모바일(<768px)에서 본문이 뷰포트 폭을 벗어나지 않고, 표도 수평 스크롤 없이 읽을 수 있어야 한다고 명시되어 있다. 그런데 P05의 모집 일정 영역은 ko/admission.html에서 5열 table을 그대로 사용하고, css/style.css에서 .table-container { overflow-x: auto; } 와 .schedule-table { width: 100%; }만 적용되어 모바일 전용 재배치가 없다. 390x844 기준에서는 열 수가 많아 표 전체를 한 화면 폭에 안정적으로 담기 어렵고, 구현 의도 자체가 가로 스크롤 허용이므로 스펙 위반 페이지로 P05가 가장 타당하다."
+}

@@ -1,0 +1,121 @@
+{
+  "task": "campus_webqa_worker_b_q3_q4",
+  "status": "partial_pending_options",
+  "site_root": "D:\\OneDrive\\바탕 화면\\Life_System\\00_Inbox\\ai_top_100_campus_webqa\\site",
+  "page_map": {
+    "P01": "index.html",
+    "P02": "ko/index.html",
+    "P03": "ko/about.html",
+    "P04": "ko/curriculum.html",
+    "P05": "ko/admission.html",
+    "P06": "ko/news.html",
+    "P07": "ko/contact.html",
+    "P08": "ko/faculty/index.html",
+    "P09": "ko/faculty/professor-001.html",
+    "P10": "ko/faculty/professor-002.html",
+    "P11": "ko/faculty/professor-003.html",
+    "P12": "ko/faculty/professor-004.html",
+    "P13": "ko/faculty/professor-005.html",
+    "P14": "ko/faculty/professor-006.html",
+    "P15": "ko/faculty/professor-007.html",
+    "P16": "ko/faculty/professor-008.html",
+    "P17": "ko/faculty/professor-009.html",
+    "P18": "ko/faculty/professor-010.html",
+    "P19": "ko/faculty/professor-011.html",
+    "P20": "ko/faculty/professor-012.html",
+    "P21": "ko/faculty/professor-013.html",
+    "P22": "ko/faculty/professor-014.html",
+    "P23": "ko/faculty/professor-015.html",
+    "P24": "en/index.html",
+    "P25": "en/about.html",
+    "P26": "en/curriculum.html",
+    "P27": "en/admission.html",
+    "P28": "en/news.html",
+    "P29": "en/contact.html",
+    "P30": "en/faculty/index.html",
+    "P31": "en/faculty/professor-001.html",
+    "P32": "en/faculty/professor-002.html",
+    "P33": "en/faculty/professor-003.html",
+    "P34": "en/faculty/professor-004.html",
+    "P35": "en/faculty/professor-005.html",
+    "P36": "en/faculty/professor-006.html",
+    "P37": "en/faculty/professor-007.html",
+    "P38": "en/faculty/professor-008.html",
+    "P39": "en/faculty/professor-009.html",
+    "P40": "en/faculty/professor-010.html",
+    "P41": "en/faculty/professor-011.html",
+    "P42": "en/faculty/professor-012.html",
+    "P43": "en/faculty/professor-013.html",
+    "P44": "en/faculty/professor-014.html",
+    "P45": "en/faculty/professor-015.html"
+  },
+  "verified_findings": [
+    {
+      "category": "link",
+      "status": "미수정",
+      "page": "P05",
+      "file": "D:\\OneDrive\\바탕 화면\\Life_System\\00_Inbox\\ai_top_100_campus_webqa\\site\\ko\\admission.html",
+      "evidence": [
+        "317: <a href=\"contect.html\" class=\"btn btn--primary mt-md\">오시는 길</a>",
+        "site/ko/contect.html 파일이 존재하지 않아 실제 이동 불가"
+      ],
+      "reason": "오타 링크로 인해 연락처 페이지 이동이 깨져 있음"
+    },
+    {
+      "category": "quick_jump",
+      "status": "미수정",
+      "page": "P04",
+      "file": "D:\\OneDrive\\바탕 화면\\Life_System\\00_Inbox\\ai_top_100_campus_webqa\\site\\js\\main.js",
+      "evidence": [
+        "128: const isQ5BugPage = /\\/ko\\/curriculum\\.html$/i.test(window.location.pathname);",
+        "165: isBugAnchor: isQ5BugPage",
+        "272: const offset = item.isBugAnchor ? 0 : headerHeight;",
+        "328: const offset = isBugAnchorLink ? 0 : headerHeight;"
+      ],
+      "reason": "ko/curriculum.html의 quick jump만 헤더 오프셋을 적용하지 않도록 예외 처리되어 있어 앵커 정렬 버그가 남아 있음"
+    },
+    {
+      "category": "translation",
+      "status": "수정됨_또는_현재_이상없음",
+      "scope": "en/*.html 전반",
+      "evidence": [
+        "영문 페이지 전체에서 한글 텍스트 직접 잔존 검색 결과 없음"
+      ],
+      "reason": "정적 소스 기준으로 영어 페이지의 명백한 미번역 텍스트는 확인되지 않음"
+    },
+    {
+      "category": "image_reference",
+      "status": "수정됨_또는_현재_이상없음",
+      "scope": "site 전체",
+      "evidence": [
+        "HTML 내 상대경로 href/src 검증 결과 누락 파일은 ko/admission.html의 contect.html 1건뿐",
+        "이미지 src 누락 건은 발견되지 않음"
+      ],
+      "reason": "현재 소스 기준 이미지 참조 오류는 확인되지 않음"
+    },
+    {
+      "category": "quick_jump_ui",
+      "status": "수정됨_또는_현재_이상없음",
+      "files": [
+        "D:\\OneDrive\\바탕 화면\\Life_System\\00_Inbox\\ai_top_100_campus_webqa\\site\\css\\style.css",
+        "D:\\OneDrive\\바탕 화면\\Life_System\\00_Inbox\\ai_top_100_campus_webqa\\site\\js\\main.js"
+      ],
+      "evidence": [
+        "style.css 1639-1644: 모바일에서 .section-quick-nav 를 position: static 으로 바꿔 제목/본문을 가리지 않도록 처리",
+        "main.js 242-305: 마지막 섹션 tail space 및 배경색 보정 로직 존재"
+      ],
+      "reason": "quick jump 관련 모바일 배치/마지막 섹션 보정 로직은 현재 구현되어 있음"
+    }
+  ],
+  "q3": {
+    "options": null,
+    "final_answer": null,
+    "flag": "Q3 보기 문장이 제공되지 않아 최종 선택 불가"
+  },
+  "q4": {
+    "options": null,
+    "final_answer": null,
+    "flag": "Q4 보기 문장이 제공되지 않아 최종 선택 불가"
+  },
+  "need_from_user": "Q3/Q4의 보기 문장 전체"
+}

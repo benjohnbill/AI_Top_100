@@ -1,0 +1,20 @@
+[
+  {
+    "task": 1,
+    "id": "q1",
+    "answer": "Incheon port import ad shows the VR headset illustration",
+    "evidence": "4면 하단 인천항 수입 물품 광고란에 현대식 VR 헤드셋 그림이 표시되어 시대상과 어긋난 조작물로 보임.",
+    "location": "4면 우측 하단 광고란",
+    "confidence": "high",
+    "flag": null
+  },
+  {
+    "task": 2,
+    "id": "q2",
+    "answer": "",
+    "evidence": "",
+    "location": "3면 우측 상단 기사군",
+    "confidence": "low",
+    "flag": "기사 본문에서 김중환·보성학교가 명확히 연결되는 문장을 판독하지 못함"
+  }
+]

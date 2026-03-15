@@ -2,10 +2,28 @@
   {
     "task": 4,
     "id": "q4",
-    "answer": "대한국개국",
-    "evidence": "1면 제호 위 날짜란에서 좌측 '西曆一千九百六年三月十四日', 우측에 '光武九年' 및 '開國 ...' 병기가 확인됨. Worker D 보고에 따르면 문항 4는 날짜란 기준으로 광무 9년으로 정리되며, 병기 연호 중 오기 대상은 '대한국개국'으로 판단.",
-    "location": "1면 날짜 표기란",
+    "answer": "光武九年",
+    "evidence": "1면 제호 위 좌측에 '西曆一千九百六年三月十四日'이 보이고, 우측 병기란에는 '○光武 ... 九年'과 '○開國 ...' 표기가 함께 보인다. 병기 연호 중 광무만 '九年'으로 읽힌다.",
+    "location": "1면 상단 우측 제호 위 날짜/연호 표기란",
     "confidence": "medium",
-    "flag": "나머지 병기 연호는 흐려서 전체 5개 연호 완전 판독은 미완료"
+    "flag": "나머지 병기 연호 일부는 흐리지만 '光武九年'은 비교적 선명"
+  },
+  {
+    "task": "cross_check",
+    "id": "review_A_q1_q2",
+    "answer": "agree",
+    "evidence": "D:\\dev\\Result_A_5.json 에서 q1, q2 모두 confidence=low, flag='신문 지면 파일을 현재 세션에서 확인할 수 없음'으로 기록됨. 이후 사용자 제공 경로로 원본 이미지가 확인되었으므로, 해당 low 판정은 초기 입력 부족 상태에서는 타당했다는 재검토 의견이다.",
+    "location": "D:\\dev\\Result_A_5.json",
+    "confidence": "high",
+    "flag": null
+  },
+  {
+    "task": "cross_check",
+    "id": "review_C_q5",
+    "answer": "agree",
+    "evidence": "D:\\dev\\Result_C_5.json 에서 q5_1, q5_2, q5_3 모두 confidence=low, flag='source image missing'으로 기록됨. 이후 사용자 제공 경로로 원본 이미지가 확인되었으므로, 해당 low 판정은 초기 입력 부족 상태에서는 타당했다는 재검토 의견이다.",
+    "location": "D:\\dev\\Result_C_5.json",
+    "confidence": "high",
+    "flag": null
   }
 ]

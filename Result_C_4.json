@@ -1,0 +1,31 @@
+{
+  "candidate_review": [
+    {
+      "page": "P07",
+      "status": "일치",
+      "reason": "메인 시설 카드의 ko_building.png는 공학관 설명과 맞고 ko_computer-lab.png도 실습 공간 설명과 큰 충돌이 없다."
+    },
+    {
+      "page": "P08",
+      "status": "불일치 의심",
+      "reason": "학부소개 시설 카드에서 세미나실이 ko_lecture-hall.png / en_lecture-hall.png를 사용하지만 실제 이미지는 세미나실보다 다수의 PC가 배치된 컴퓨터 실습실 장면에 가깝다."
+    },
+    {
+      "page": "P12",
+      "status": "일치",
+      "reason": "뉴스 이미지 경로와 실제 포스터 내용이 기사 제목과 본문 일정에 맞는다. ko_news-2-contest.png와 ko_news-5-internship.png 모두 정합적이다."
+    },
+    {
+      "page": "P13",
+      "status": "일치",
+      "reason": "ko_news-8-jobfair.png, ko_news-9-mt.png, ko_news-10-result.png의 포스터 문구가 기사 제목과 직접 대응된다."
+    },
+    {
+      "page": "P14",
+      "status": "일치/판단보류",
+      "reason": "연락처 페이지 지도는 외부 roughmap 이미지지만 주소와 지도 링크와 정면 충돌하는 증거는 확인되지 않았다."
+    }
+  ],
+  "final_answer": "P08",
+  "summary": "spec.pdf의 P08은 학부소개(ko/about.html, en/about.html) 시설 데이터 페이지다. 이 페이지에서 세미나실 카드가 lecture-hall 파일을 참조하지만 실제 이미지는 발표나 회의 공간보다 다수의 워크스테이션이 있는 실습실 장면으로 보인다. 경로 자체는 스펙과 HTML이 맞지만 이미지 내용이 페이지 텍스트와 어긋나는 대표 사례여서 P08이 가장 가능성이 높다."
+}

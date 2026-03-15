@@ -1,0 +1,1041 @@
+{
+  "무인카페_사업계획서_final.pdf": [
+    {
+      "name": "무인카페_사업계획서_final.pdf#page1",
+      "lines": [
+        {
+          "text": "SMART UNMANNED CAFE",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "스마트 무인카페 창업 기획안",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "BUSINESS PLAN 2024",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "Team 카페인",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "성민, 재현, 유나",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page2",
+      "lines": [
+        {
+          "text": "CONTENTS",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "시장 현황",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "01",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "02 소비자 분석",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "03 경쟁사 분석",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "04 차별화 전략",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "05 재무 계획",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "06 결론",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page3",
+      "lines": [
+        {
+          "text": "MARKET STATUS",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "시장 현황 - 무인매장 성장세",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A 전국무인매장: 10만개?",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "무인카페 성장률: 31%",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "출처: 소방청 2024",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page4",
+      "lines": [
+        {
+          "text": "커피머신/키오스크:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1,500만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "STARTUP COST",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "창업 비용 분석",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "초기 투자: 3전~5전만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "인테리어:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1,000만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "인건비 절감:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "월 200만원+",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page5",
+      "lines": [
+        {
+          "text": "CONSUMER ANALYSIS",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "소비자 분석 - 선호 요인",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "=0亘A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "2위: 저렴한 가격",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1위: 빠른 주문",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "키오스크 결제율 450%",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page6",
+      "lines": [
+        {
+          "text": "COMPETITOR ANALYSIS",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "경쟁사 분석",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "커피콩콩",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "저가전략",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1,500워",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "LOW-PRICE",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "빈스팟",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "프리미엄 전략",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "2,500우!",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "PREMIUM",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page7",
+      "lines": [
+        {
+          "text": "성공 사례 - 바리봇24",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "• 위치:강남",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "• 월매출: 800만원+",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "• 핵심: 24시간운영",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page8",
+      "lines": [
+        {
+          "text": "DIFFERENTIATION STRATEGY",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "가격: 아메리카노",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1,800원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "차별화 전략",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "운영: 24시간",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "+ 모바일 선주문",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "공간: 콘센트/와이파이",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "+스터디",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page9",
+      "lines": [
+        {
+          "text": "FINANCIAL PLAN",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "재무 계획",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "0",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "초기 투자: 4,000만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "월 예상 매출:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "750만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "월 순이익:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "570만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "월 고정비: 180만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "손익분기점: 8개월",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page10",
+      "lines": [
+        {
+          "text": "RISK MANAGEMENT",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "리스크 관리",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "기계 고장",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "24시간",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "AS741약",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "청결 문제",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "일 2회 점검",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "경쟁 심화",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "가격 경쟁력",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "수요 부족",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "SNS 마케팅",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page11",
+      "lines": [
+        {
+          "text": "CONCLUSION",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "결론",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A 무인카페 시장 연 31% 고성장",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "초기 투자 4천만원, 손익분기점 8개월",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "대학가상권+중저가전략",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "* 24시간 운영 + 모바일 선주문",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page12",
+      "lines": [
+        {
+          "text": "REFERENCES",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "참고자료",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "소방청 2024 무인매장 통계",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "“!카페 소비자 선호도 조사",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "인카페 창업 비용 가이드",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "정사 비교 분석",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_final.pdf#page13",
+      "lines": [
+        {
+          "text": "THANI< YOU",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "감사합니다",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "Q&A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "Team 카페인",
+          "conf": null,
+          "box": null
+        }
+      ]
+    }
+  ],
+  "무인카페_사업계획서_v1.pdf": [
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page1",
+      "lines": [
+        {
+          "text": "SMART UNMANNED CAFE",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "스마트 무인카페 창업 기획안",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "BUSINESS PLAN 2024",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "Team 카페인",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "성민, 재현, 유나",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page2",
+      "lines": [
+        {
+          "text": "CONTENTS",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "시장 현황",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "01",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "02 소비자 분석",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "03 경쟁사 분석",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "04 차별화 전략",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "05 재무 계획",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "06 결론",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page3",
+      "lines": [
+        {
+          "text": "MARKET STATUS",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "시장 현황 - 무인매장 성장세",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A 전국무인매장: 10만개?",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "무인카페 성장률: 31%",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "출처: 소방청 2024",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page4",
+      "lines": [
+        {
+          "text": "커피머신/키오스크:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1,500만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "STARTUP COST",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "창업 비용 분석",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "초기 투자: 3전~5전만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "인테리어:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1,000만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "인건비 절감:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "월 200만원+",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page5",
+      "lines": [
+        {
+          "text": "CONSUMER ANALYSIS",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "소비자 분석 - 선호 요인",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "=0亘A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "2위: 저렴한 가격",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1위: 빠른 주문",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "키오스크 결제율 450%",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page6",
+      "lines": [
+        {
+          "text": "성공 사례 - 바리봇24",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "• 위치:강남",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "• 월매출: 800만원+",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "• 핵심: 24시간운영",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page7",
+      "lines": [
+        {
+          "text": "DIFFERENTIATION STRATEGY",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "가격: 아메리카노",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "1,800원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "차별화 전략",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "운영: 24시간",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "+ 모바일 선주문",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "공간: 콘센트/와이파이",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "+스터디",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page8",
+      "lines": [
+        {
+          "text": "FINANCIAL PLAN",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "재무 계획",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "0",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "초기 투자: 4,000만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "월 예상 매출:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "750만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "월 순이익:",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "570만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "월 고정비: 180만원",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "손익분기점: 8개월",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page9",
+      "lines": [
+        {
+          "text": "RISK MANAGEMENT",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "리스크 관리",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "기계 고장",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "24시간",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "AS741약",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "청결 문제",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "일 2회 점검",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "경쟁 심화",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "가격 경쟁력",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "수요 부족",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "SNS 마케팅",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page10",
+      "lines": [
+        {
+          "text": "CONCLUSION",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "결론",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "A 무인카페 시장 연 31% 고성장",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "초기 투자 4천만원, 손익분기점 8개월",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "대학가상권+중저가전략",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "* 24시간 운영 + 모바일 선주문",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page11",
+      "lines": [
+        {
+          "text": "REFERENCES",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "참고자료",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "소방청 2024 무인매장 통계",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "“!카페 소비자 선호도 조사",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "인카페 창업 비용 가이드",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "정사 비교 분석",
+          "conf": null,
+          "box": null
+        }
+      ]
+    },
+    {
+      "name": "무인카페_사업계획서_v1.pdf#page12",
+      "lines": [
+        {
+          "text": "THANI< YOU",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "감사합니다",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "Q&A",
+          "conf": null,
+          "box": null
+        },
+        {
+          "text": "Team 카페인",
+          "conf": null,
+          "box": null
+        }
+      ]
+    }
+  ]
+}
